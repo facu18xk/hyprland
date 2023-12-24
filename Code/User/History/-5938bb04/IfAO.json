@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on"
+}

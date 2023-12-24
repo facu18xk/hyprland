@@ -1,0 +1,56 @@
+2023-12-23 17:04:12.215 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2023-12-23 17:04:12.227 [info] Installing extension: catppuccin.catppuccin-vsc
+2023-12-23 17:04:13.497 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc
+2023-12-23 17:04:13.533 [info] Extracted extension to file:///home/facu/.vscode/extensions/catppuccin.catppuccin-vsc-3.8.2: catppuccin.catppuccin-vsc
+2023-12-23 17:04:13.537 [info] Renamed to /home/facu/.vscode/extensions/catppuccin.catppuccin-vsc-3.8.2
+2023-12-23 17:04:13.539 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2023-12-23 17:04:13.550 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2023-12-23 17:04:13.626 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2023-12-23 17:04:49.583 [info] Getting Manifest... formulahendry.code-runner
+2023-12-23 17:04:49.589 [info] Installing extension: formulahendry.code-runner
+2023-12-23 17:04:50.243 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.code-runner
+2023-12-23 17:04:50.418 [info] Extracted extension to file:///home/facu/.vscode/extensions/formulahendry.code-runner-0.12.1: formulahendry.code-runner
+2023-12-23 17:04:50.421 [info] Renamed to /home/facu/.vscode/extensions/formulahendry.code-runner-0.12.1
+2023-12-23 17:04:50.424 [info] Extracting extension completed. formulahendry.code-runner
+2023-12-23 17:04:50.439 [info] Extension installed successfully: formulahendry.code-runner
+2023-12-23 17:04:50.511 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2023-12-23 17:04:56.277 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-23 17:04:56.286 [info] Installing extension: ritwickdey.liveserver
+2023-12-23 17:04:57.811 [warning] Extension signature verification failed with error 'UnknownError': ritwickdey.liveserver
+2023-12-23 17:05:00.067 [info] Extracted extension to file:///home/facu/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-12-23 17:05:00.084 [info] Renamed to /home/facu/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-12-23 17:05:00.086 [info] Extracting extension completed. ritwickdey.liveserver
+2023-12-23 17:05:00.097 [info] Extension installed successfully: ritwickdey.liveserver
+2023-12-23 17:05:00.173 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2023-12-23 17:05:33.556 [info] Getting Manifest... pkief.material-icon-theme
+2023-12-23 17:05:33.574 [info] Installing extension: pkief.material-icon-theme
+2023-12-23 17:05:34.291 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2023-12-23 17:05:34.688 [info] Extracted extension to file:///home/facu/.vscode/extensions/pkief.material-icon-theme-4.32.0: pkief.material-icon-theme
+2023-12-23 17:05:34.693 [info] Renamed to /home/facu/.vscode/extensions/pkief.material-icon-theme-4.32.0
+2023-12-23 17:05:34.696 [info] Extracting extension completed. pkief.material-icon-theme
+2023-12-23 17:05:34.713 [info] Extension installed successfully: pkief.material-icon-theme
+2023-12-23 17:05:34.780 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

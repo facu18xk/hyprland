@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=facus.garn@gmail.com
+Enabled=true
+Parent=e34befb9b58d7d560abb13072f0db0938bb974ca
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=7babe1e113fd3f34a2c68ebb869e217f2c864b14
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=facus.garn@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
