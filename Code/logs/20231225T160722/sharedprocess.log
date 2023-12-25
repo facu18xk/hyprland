@@ -1,0 +1,14 @@
+2023-12-25 16:07:40.649 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2023-12-25 16:07:40.661 [info] Installing extension: shd101wyy.markdown-preview-enhanced
+2023-12-25 16:07:47.987 [warning] Extension signature verification failed with error 'UnknownError': shd101wyy.markdown-preview-enhanced
+2023-12-25 16:07:48.463 [info] Extracted extension to file:///home/facu/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.11: shd101wyy.markdown-preview-enhanced
+2023-12-25 16:07:48.466 [info] Renamed to /home/facu/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.11
+2023-12-25 16:07:48.469 [info] Extracting extension completed. shd101wyy.markdown-preview-enhanced
+2023-12-25 16:07:48.482 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced
+2023-12-25 16:07:48.556 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/facu/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
