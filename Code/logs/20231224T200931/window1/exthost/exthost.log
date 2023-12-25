@@ -1,0 +1,35 @@
+2023-12-24 20:09:33.519 [info] Extension host with pid 27536 started
+2023-12-24 20:09:33.519 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/7c96355b5060a408f8e12235708fcfd0.
+2023-12-24 20:09:33.554 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-24 20:09:33.566 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-24 20:09:33.602 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-24 20:09:33.678 [info] Eager extensions activated
+2023-12-24 20:09:33.720 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:33.725 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:33.737 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:33.745 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:33.799 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:33.807 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:33.822 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 20:09:34.348 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-24 20:09:35.439 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-12-24 20:09:35.446 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-12-24 20:09:35.472 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-12-24 20:09:38.767 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-12-24 20:09:39.989 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-12-24 20:10:31.312 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-24 20:16:29.258 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-24 20:16:29.364 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/home/facu/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:675367)
+	at t.deactivate (/home/facu/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:213749)
+	at f.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9678)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-12-24 20:16:29.377 [info] Extension host with pid 27536 exiting with code 0

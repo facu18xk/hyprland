@@ -4,8 +4,11 @@
         "workspaces": {
             "file:///home/facu/.config/hypr": "__default__profile__",
             "file:///home/facu/.config/kitty": "__default__profile__",
-            "file:///home/facu": "__default__profile__",
-            "file:///home/facu/Documents": "__default__profile__"
+            "file:///home/facu/Documents": "__default__profile__",
+            "file:///tmp/helloWorld": "__default__profile__",
+            "file:///home/facu/repos/pizza": "__default__profile__",
+            "file:///home/facu/.config/waybar": "__default__profile__",
+            "file:///home/facu": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -16,21 +19,21 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/facu/Documents"
+                "folderUri": "file:///home/facu"
             }
         ],
         "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/facu/Documents",
-            "backupPath": "/home/facu/.config/Code/Backups/a0225c4fe701cabd382f52a9570b9afa",
+            "folder": "file:///home/facu",
+            "backupPath": "/home/facu/.config/Code/Backups/c2deb1bbc56694993d990e4ab7b55fe6",
             "uiState": {
                 "mode": 1,
-                "x": 4,
-                "y": 66,
-                "width": 1912,
-                "height": 1010
+                "x": 2724,
+                "y": 33,
+                "width": 789,
+                "height": 860
             }
         },
         "openedWindows": []
@@ -83,23 +86,56 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu/Documents",
-                                        "path": "/home/facu/Documents",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/facu",
                                         "path": "/home/facu",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "/home/facu"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/.config/waybar",
+                                        "path": "/home/facu/.config/waybar",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/pizza",
+                                        "path": "/home/facu/repos/pizza",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/pizza"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///tmp/helloWorld",
+                                        "path": "/tmp/helloWorld",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/tmp/helloWorld"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/Documents",
+                                        "path": "/home/facu/Documents",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -180,6 +216,13 @@
                         "submenu": {
                             "items": [
                                 {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
                                 },
@@ -249,6 +292,10 @@
                                 {
                                     "id": "workbench.action.openSettings",
                                     "label": "&&Settings"
+                                },
+                                {
+                                    "id": "workbench.view.extensions",
+                                    "label": "&&Extensions"
                                 },
                                 {
                                     "id": "workbench.action.openGlobalKeybindings",
@@ -1316,6 +1363,10 @@
                 "label": "Ctrl+,",
                 "userSettingsLabel": "ctrl+,"
             },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
+            },
             "workbench.action.openGlobalKeybindings": {
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
@@ -1501,10 +1552,6 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
-            },
-            "workbench.view.extensions": {
-                "label": "Ctrl+Shift+X",
-                "userSettingsLabel": "ctrl+shift+x"
             },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
@@ -1708,7 +1755,7 @@
     "theme": "vs-dark",
     "themeBackground": "#303446",
     "windowSplash": {
-        "zoomLevel": 2,
+        "zoomLevel": 1,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#c6d0f5",

@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+}

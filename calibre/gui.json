@@ -1,0 +1,237 @@
+{
+  "book_details_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 1040,
+      "width": 1912,
+      "x": -3,
+      "y": -30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1007,
+      "width": 1906,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1007,
+      "width": 1906,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAD////9////4gAAB3QAAAPxAAAAAAAAAAAAAAdxAAAD7gAAAAAAAAAAB4AAAAAAAAAAAAAAB3EAAAPu"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "CMN",
+      "model": "0x14f3",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_single_dialog_geom": {
+    "frame_geometry": {
+      "height": 1048,
+      "width": 1920,
+      "x": 22,
+      "y": -30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1015,
+      "width": 1914,
+      "x": 25,
+      "y": 0
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 980,
+      "width": 1850,
+      "x": 25,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAW////4gAAB5UAAAP5AAAAGQAAAAAAAAdSAAAD0wAAAAACAAAAB4AAAAAZAAAAAAAAB5IAAAP2"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "CMN",
+      "model": "0x14f3",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "library_usage_stats": {
+    "/home/facu/Calibre Library": 4
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "search bar visible": true,
+  "tag browser search box visible": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    200
+  ]
+}

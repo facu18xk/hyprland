@@ -1,9 +1,0 @@
-2023-12-23 16:04:05.408 [info] Extension host with pid 12951 started
-2023-12-23 16:04:05.408 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/78bf1daf154cfb3ab690033f4282fb91.
-2023-12-23 16:04:05.440 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
-2023-12-23 16:04:05.453 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2023-12-23 16:04:05.485 [info] Eager extensions activated
-2023-12-23 16:04:05.488 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2023-12-23 16:04:05.491 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2023-12-23 16:04:05.833 [info] Extension host terminating: renderer closed the MessagePort
-2023-12-23 16:04:05.841 [info] Extension host with pid 12951 exiting with code 0
