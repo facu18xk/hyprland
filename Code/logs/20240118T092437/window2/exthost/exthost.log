@@ -1,0 +1,25 @@
+2024-01-18 09:24:55.082 [info] Extension host with pid 46006 started
+2024-01-18 09:24:55.082 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/1c1715af362c9a8c4ebfcda5bdeb06ea.
+2024-01-18 09:24:55.236 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-18 09:24:55.244 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-18 09:24:55.500 [info] Extension host with pid 46045 started
+2024-01-18 09:24:55.500 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/1c1715af362c9a8c4ebfcda5bdeb06ea.
+2024-01-18 09:24:55.536 [info] Eager extensions activated
+2024-01-18 09:24:55.583 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:55.972 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-18 09:24:56.031 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-18 09:24:56.055 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-18 09:24:56.112 [info] Eager extensions activated
+2024-01-18 09:24:56.152 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:56.156 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:56.164 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:56.167 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:56.199 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:56.212 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:24:56.221 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 09:25:33.867 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-01-18 09:26:22.437 [warning] TextEditor is closed/disposed
+2024-01-18 09:26:22.438 [warning] TextEditor is closed/disposed
+2024-01-18 09:26:22.511 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2024-01-18 09:26:22.512 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model2)
+2024-01-18 11:53:30.771 [info] ExtensionService#_doActivateExtension Perkovec.emoji, startup: false, activationEvent: 'onCommand:emoji.insert'

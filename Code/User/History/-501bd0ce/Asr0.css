@@ -1,0 +1,16 @@
+section {
+    align-items: flex-start;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+h2 {
+    position: sticky;
+    margin: 0;
+    top: 1rem;
+}
+
+.text {
+    max-width: 300px;
+    font-size: 2rem;
+}

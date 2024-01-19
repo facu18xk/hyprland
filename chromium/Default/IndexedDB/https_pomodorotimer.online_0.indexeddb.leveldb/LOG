@@ -1,0 +1,6 @@
+2024/01/04-01:26:18.614 333 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_pomodorotimer.online_0.indexeddb.leveldb since it was missing.
+2024/01/04-01:26:18.616 333 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_pomodorotimer.online_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/04-01:27:50.042 38b Level-0 table #5: started
+2024/01/04-01:27:50.043 38b Level-0 table #5: 1396 bytes OK
+2024/01/04-01:27:50.044 38b Delete type=0 #3
+2024/01/04-01:27:50.044 38b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

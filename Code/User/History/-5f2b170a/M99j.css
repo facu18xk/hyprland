@@ -1,0 +1,15 @@
+:root {
+    --header: 200px;
+    --footer: 150px;
+}
+
+body {
+    min-height: 100vh;
+    background: black;
+    color: white;
+}
+
+header {
+    height: var(--header);
+    background: linear-gradient(30deg, purple, pink);
+}

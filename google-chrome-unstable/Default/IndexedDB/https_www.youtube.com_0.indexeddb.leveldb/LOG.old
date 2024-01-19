@@ -1,0 +1,6 @@
+2024/01/11-09:55:26.827 3526e Creating DB /home/facu/.config/google-chrome-unstable/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/01/11-09:55:26.830 3526e Reusing MANIFEST /home/facu/.config/google-chrome-unstable/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-10:22:04.964 3526f Level-0 table #5: started
+2024/01/11-10:22:04.969 3526f Level-0 table #5: 230157 bytes OK
+2024/01/11-10:22:04.970 3526f Delete type=0 #3
+2024/01/11-10:22:04.971 3526f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

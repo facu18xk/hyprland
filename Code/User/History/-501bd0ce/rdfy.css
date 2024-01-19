@@ -1,0 +1,9 @@
+dl {
+    width: 100vw;
+    font-size: 4rem;
+}
+
+dt {
+    padding: 10px;
+    background: lightgreen;
+}

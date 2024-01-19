@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.columns {
+    display: flex;
+    background-color: paleturquoise;
+    width: 800px;
+}
+
+.column {
+    background-color: palevioletred;
+
+}

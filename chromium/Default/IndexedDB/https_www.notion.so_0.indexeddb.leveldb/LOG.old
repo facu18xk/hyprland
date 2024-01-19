@@ -1,0 +1,4 @@
+2024/01/19-07:53:55.885 463 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/19-07:53:55.885 463 Recovering log #203
+2024/01/19-07:53:55.886 463 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000203.log 
+2024/01/19-07:53:55.886 463 Delete type=2 #201

@@ -1,0 +1,15 @@
+2024/01/13-18:37:22.558 33b Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/13-18:37:22.558 33b Recovering log #7
+2024/01/13-18:37:22.559 33b Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/000007.log 
+2024/01/13-21:48:21.323 33c Level-0 table #12: started
+2024/01/13-21:48:21.324 33c Level-0 table #12: 190 bytes OK
+2024/01/13-21:48:21.325 33c Delete type=0 #7
+2024/01/13-21:48:21.325 33c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/13-21:48:21.325 33c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 228 : 1
+2024/01/13-21:48:21.326 33c Compacting 1@1 + 1@2 files
+2024/01/13-21:48:21.326 33c Generated table #13@1: 69 keys, 1222 bytes
+2024/01/13-21:48:21.326 33c Compacted 1@1 + 1@2 files => 1222 bytes
+2024/01/13-21:48:21.327 33c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/13-21:48:21.327 33c Delete type=2 #9
+2024/01/13-21:48:21.327 33c Delete type=2 #12
+2024/01/13-21:48:21.327 33c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 228 : 1 .. (end); will stop at (end)

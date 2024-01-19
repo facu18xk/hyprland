@@ -1,0 +1,6 @@
+2024/01/18-10:23:19.645 35f Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_www.smashingmagazine.com_0.indexeddb.leveldb since it was missing.
+2024/01/18-10:23:19.648 35f Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.smashingmagazine.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/18-10:23:26.857 35e Level-0 table #5: started
+2024/01/18-10:23:26.858 35e Level-0 table #5: 7212 bytes OK
+2024/01/18-10:23:26.860 35e Delete type=0 #3
+2024/01/18-10:23:26.860 35e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

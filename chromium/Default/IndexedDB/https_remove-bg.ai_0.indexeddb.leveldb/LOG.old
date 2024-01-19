@@ -1,0 +1,6 @@
+2024/01/03-17:42:12.886 34f Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_remove-bg.ai_0.indexeddb.leveldb since it was missing.
+2024/01/03-17:42:12.888 34f Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_remove-bg.ai_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/03-17:53:53.051 350 Level-0 table #5: started
+2024/01/03-17:53:53.053 350 Level-0 table #5: 2185 bytes OK
+2024/01/03-17:53:53.055 350 Delete type=0 #3
+2024/01/03-17:53:53.056 350 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

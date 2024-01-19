@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background: black;
+    color: white;
+}
+
+.gradient {
+    background: linear-gradient(30deg, purple, pink);
+    width: 500px;
+    height: 500px;
+}

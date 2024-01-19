@@ -1,0 +1,10 @@
+2024/01/17-13:24:11.493 6549 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_boxy-svg.com_0.indexeddb.leveldb since it was missing.
+2024/01/17-13:24:11.495 6549 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_boxy-svg.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/17-13:24:11.532 654c Level-0 table #5: started
+2024/01/17-13:24:11.534 654c Level-0 table #5: 1268 bytes OK
+2024/01/17-13:24:11.534 654c Delete type=0 #3
+2024/01/17-13:24:11.535 654c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/17-13:24:16.465 6552 Level-0 table #7: started
+2024/01/17-13:24:16.466 6552 Level-0 table #7: 3081 bytes OK
+2024/01/17-13:24:16.467 6552 Delete type=0 #4
+2024/01/17-13:24:16.467 6548 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

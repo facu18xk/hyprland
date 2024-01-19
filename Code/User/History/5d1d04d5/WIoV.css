@@ -1,0 +1,11 @@
+body {
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.trail {
+    visibility: hidden;
+    position: absolute;
+    animation: all 0.5s;
+}

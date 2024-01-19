@@ -1,0 +1,20 @@
+2024-01-18 15:56:10.108 [info] Extension host with pid 40625 started
+2024-01-18 15:56:10.108 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/d34cece8179d613e1f1f91c83efdb47f.
+2024-01-18 15:56:10.546 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-18 15:56:10.558 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-18 15:56:10.666 [info] Extension host with pid 40686 started
+2024-01-18 15:56:10.666 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/d34cece8179d613e1f1f91c83efdb47f.
+2024-01-18 15:56:10.700 [info] Eager extensions activated
+2024-01-18 15:56:10.744 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:11.465 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-18 15:56:11.848 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-18 15:56:11.894 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-18 15:56:11.999 [info] Eager extensions activated
+2024-01-18 15:56:12.155 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:12.166 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:12.185 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:12.194 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:12.274 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:12.288 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:12.310 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:56:30.040 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

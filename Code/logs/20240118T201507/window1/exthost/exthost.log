@@ -1,0 +1,41 @@
+2024-01-18 20:15:10.713 [info] Extension host with pid 4058 started
+2024-01-18 20:15:10.713 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/d34cece8179d613e1f1f91c83efdb47f.
+2024-01-18 20:15:11.408 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-18 20:15:11.430 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-01-18 20:15:11.721 [info] Extension host with pid 4085 started
+2024-01-18 20:15:11.721 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/d34cece8179d613e1f1f91c83efdb47f.
+2024-01-18 20:15:11.984 [info] Eager extensions activated
+2024-01-18 20:15:12.146 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:12.274 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-18 20:15:12.641 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-18 20:15:12.705 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-18 20:15:12.764 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-18 20:15:12.971 [info] Eager extensions activated
+2024-01-18 20:15:13.218 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:13.229 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:13.254 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:13.270 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:13.458 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:13.493 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:15:13.553 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 20:16:34.780 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-01-18 20:16:34.821 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-01-18 20:16:34.974 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-01-18 20:16:36.371 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-18 21:14:59.045 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-18 21:14:59.050 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-18 21:14:59.082 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/home/facu/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:675367)
+	at t.deactivate (/home/facu/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:213749)
+	at f.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9678)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-01-18 21:14:59.082 [info] Extension host with pid 4085 exiting with code 0
+2024-01-18 21:14:59.119 [info] Extension host with pid 4058 exiting with code 0

@@ -1,0 +1,13 @@
+2024/01/19-07:53:51.851 460 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_pomodor.app_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/19-07:53:51.852 460 Recovering log #281
+2024/01/19-07:53:51.894 460 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_pomodor.app_0.indexeddb.leveldb/000281.log 
+2024/01/19-07:53:51.894 460 Delete type=2 #279
+2024/01/19-07:53:51.894 460 Delete type=2 #282
+2024/01/19-07:53:51.994 461 Level-0 table #286: started
+2024/01/19-07:53:52.005 461 Level-0 table #286: 299615 bytes OK
+2024/01/19-07:53:52.008 461 Delete type=0 #281
+2024/01/19-07:53:52.009 461 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/19-07:54:01.879 460 Compacting 1@1 + 1@2 files
+2024/01/19-07:54:01.892 460 Generated table #287@1: 239 keys, 9226 bytes
+2024/01/19-07:54:01.892 460 Compacted 1@1 + 1@2 files => 9226 bytes
+2024/01/19-07:54:01.893 460 compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,14 @@
+:is(a, h2) {
+    background: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.item {
+    background-color: lightcoral;
+}

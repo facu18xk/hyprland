@@ -1,0 +1,10 @@
+.dummy {
+    font-size: calc(1rem + 0.3vw);
+}
+
+.title {
+    font-style: italic;
+    letter-spacing: 2rem;
+    line-height: 20rem;
+    text-transform: uppercase;
+}

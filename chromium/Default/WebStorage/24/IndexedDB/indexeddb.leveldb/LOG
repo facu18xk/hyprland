@@ -1,0 +1,7 @@
+2024/01/13-21:59:00.356 33b Reusing MANIFEST /home/facu/.config/chromium/Default/WebStorage/24/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/13-21:59:00.357 33b Recovering log #3
+2024/01/13-21:59:00.357 33b Reusing old log /home/facu/.config/chromium/Default/WebStorage/24/IndexedDB/indexeddb.leveldb/000003.log 
+2024/01/13-22:26:58.415 33b Level-0 table #5: started
+2024/01/13-22:26:58.416 33b Level-0 table #5: 25566 bytes OK
+2024/01/13-22:26:58.417 33b Delete type=0 #3
+2024/01/13-22:26:58.417 33b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

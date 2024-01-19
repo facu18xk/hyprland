@@ -1,0 +1,6 @@
+2024/01/02-14:17:01.330 390 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_expert-halibut-6p47g4q45wph56xp.github.dev_0.indexeddb.leveldb since it was missing.
+2024/01/02-14:17:01.332 390 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_expert-halibut-6p47g4q45wph56xp.github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/02-14:40:07.088 391 Level-0 table #5: started
+2024/01/02-14:40:07.099 391 Level-0 table #5: 180585 bytes OK
+2024/01/02-14:40:07.101 391 Delete type=0 #3
+2024/01/02-14:40:07.102 391 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

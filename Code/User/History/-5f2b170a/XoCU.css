@@ -1,0 +1,24 @@
+:root {
+    --header: 100px;
+    --footer: 100px;
+    --main: calc(100vh - var(--header) - var(--footer));
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    color: white;
+}
+
+h1 {
+    font-size: clamp(2rem, 5vw, 4rem);
+}
+
+p {
+    font-size: clamp(1rem, 3vw, 2rem);
+    line-height: calc(1.4 + 1vw);
+}

@@ -1,0 +1,12 @@
+2024/01/19-07:53:51.656 461 Reusing MANIFEST /home/facu/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2024/01/19-07:53:51.659 461 Recovering log #20
+2024/01/19-07:53:51.681 461 Reusing old log /home/facu/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000020.log 
+2024/01/19-07:54:02.957 463 Level-0 table #25: started
+2024/01/19-07:54:02.988 463 Level-0 table #25: 2565409 bytes OK
+2024/01/19-07:54:02.991 463 Delete type=0 #20
+2024/01/19-09:05:09.743 460 Compacting 1@1 + 1@2 files
+2024/01/19-09:05:09.755 460 Generated table #26@1: 7 keys, 24769 bytes
+2024/01/19-09:05:09.755 460 Compacted 1@1 + 1@2 files => 24769 bytes
+2024/01/19-09:05:09.756 460 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/19-09:05:09.757 460 Delete type=2 #25
+2024/01/19-09:05:09.757 460 Delete type=2 #22

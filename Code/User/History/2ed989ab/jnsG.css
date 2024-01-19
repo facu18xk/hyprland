@@ -1,0 +1,104 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: black;
+    margin: 0px;
+    overflow: hidden;
+    font-family: 'Press Start 2P';
+}
+
+.title {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 4rem;
+    line-height: 3.8rem;
+    font-family: 'Permanent Marker', cursive;
+    background: -webkit-linear-gradient(rgb(255, 18, 18) 30%, rgb(255, 215, 38));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+span {
+    background: inherit;
+}
+
+.title--sub {
+    transform: skew(-10deg) rotate(-10deg) translateX(-5rem);
+}
+
+.title--sub1 {
+    transform: skew(-10deg)rotate(-10deg)translateX(-1rem);
+}
+
+.title--sub2 {
+    transform: skew(-10deg) rotate(-10deg) translateX(4rem);
+}
+
+.start {
+    font-family: 'Press Start 2P',
+        system-ui;
+    color: white;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+    opacity: 0.5;
+}
+
+.dialog {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50vw;
+    height: 60vh;
+    /* From https://css.glass */
+    background: rgba(0, 0, 0, 0.27);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.7px);
+    -webkit-backdrop-filter: blur(6.7px);
+}
+
+.dialog h2 {
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 60%;
+    margin-bottom: 40px;
+}
+
+.buttons button {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.3);
+    outline: none;
+    color: white;
+    font-size: 1.5rem;
+    font-family: inherit;
+    white-space: pre;
+    transition: all 0.5s;
+}
+
+.buttons button:hover {
+    transform: scale(1.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 1px 1px 20px rgba(255, 255, 255, 0.2);
+}

@@ -1,0 +1,6 @@
+2024/01/03-20:44:12.311 40a4e Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb since it was missing.
+2024/01/03-20:44:12.313 40a4e Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/03-21:27:46.902 40a4f Level-0 table #5: started
+2024/01/03-21:27:46.904 40a4f Level-0 table #5: 9139 bytes OK
+2024/01/03-21:27:46.906 40a4f Delete type=0 #3
+2024/01/03-21:27:46.907 40a4f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

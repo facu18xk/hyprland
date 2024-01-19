@@ -1,0 +1,15 @@
+2024/01/19-08:08:26.733 2150 Reusing MANIFEST /home/facu/.config/google-chrome-unstable/Default/shared_proto_db/MANIFEST-000001
+2024/01/19-08:08:26.735 2150 Recovering log #16
+2024/01/19-08:08:26.744 2150 Reusing old log /home/facu/.config/google-chrome-unstable/Default/shared_proto_db/000016.log 
+2024/01/19-08:08:38.127 2144 Level-0 table #20: started
+2024/01/19-08:08:38.148 2144 Level-0 table #20: 210148 bytes OK
+2024/01/19-08:08:38.153 2144 Delete type=0 #16
+2024/01/19-08:08:38.154 2144 Compacting 4@0 + 1@1 files
+2024/01/19-08:08:38.174 2144 Generated table #21@0: 2285 keys, 76516 bytes
+2024/01/19-08:08:38.175 2144 Compacted 4@0 + 1@1 files => 76516 bytes
+2024/01/19-08:08:38.179 2144 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/19-08:08:38.181 2144 Delete type=2 #11
+2024/01/19-08:08:38.181 2144 Delete type=2 #14
+2024/01/19-08:08:38.181 2144 Delete type=2 #8
+2024/01/19-08:08:38.181 2144 Delete type=2 #20
+2024/01/19-08:08:38.182 2144 Delete type=2 #17

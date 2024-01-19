@@ -1,0 +1,30 @@
+:root {
+    --header: 200px;
+    --footer: 150px;
+    --main: calc(100vh - calc(var(--header)+var(--footer)));
+}
+
+body {
+    min-height: 100vh;
+    background: black;
+    color: white;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+header {
+    height: var(--header);
+    background: linear-gradient(30deg, purple, pink);
+}
+
+main {
+    height: var(--main);
+    background-color: red;
+}
+
+footer {
+    height: var(--footer);
+    background: linear-gradient(30deg, purple, rgb(255, 0, 195));
+}

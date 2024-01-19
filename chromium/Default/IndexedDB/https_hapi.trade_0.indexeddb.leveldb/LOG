@@ -1,0 +1,6 @@
+2024/01/11-12:02:33.371 47d Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_hapi.trade_0.indexeddb.leveldb since it was missing.
+2024/01/11-12:02:33.373 47d Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_hapi.trade_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-12:02:33.383 47d Level-0 table #5: started
+2024/01/11-12:02:33.384 47d Level-0 table #5: 758 bytes OK
+2024/01/11-12:02:33.385 47d Delete type=0 #3
+2024/01/11-12:02:33.385 4e1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

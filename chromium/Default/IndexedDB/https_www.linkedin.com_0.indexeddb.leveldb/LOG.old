@@ -1,0 +1,7 @@
+2024/01/13-11:37:57.591 425 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/13-11:37:57.592 425 Recovering log #3
+2024/01/13-11:37:57.592 425 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000003.log 
+2024/01/13-11:40:13.458 426 Level-0 table #5: started
+2024/01/13-11:40:13.461 426 Level-0 table #5: 5392 bytes OK
+2024/01/13-11:40:13.464 426 Delete type=0 #3
+2024/01/13-11:40:13.465 426 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

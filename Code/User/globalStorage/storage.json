@@ -4,12 +4,40 @@
         "workspaces": {
             "file:///home/facu/.config/hypr": "__default__profile__",
             "file:///home/facu/.config/kitty": "__default__profile__",
-            "file:///home/facu/Documents": "__default__profile__",
             "file:///tmp/helloWorld": "__default__profile__",
             "file:///home/facu/repos/pizza": "__default__profile__",
             "file:///home/facu/.config/waybar": "__default__profile__",
             "file:///home/facu": "__default__profile__",
-            "file:///home/facu/.config": "__default__profile__"
+            "file:///home/facu/.config": "__default__profile__",
+            "file:///home/facu/repos": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/css": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/css-exercises/flex": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/running": "__default__profile__",
+            "file:///home/facu/shit/Insta-Bot/src": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js/chromeDevTools": "__default__profile__",
+            "file:///tmp/weGonnaDie": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js/cleanCode": "__default__profile__",
+            "file:///home/facu/repos/top/javascript-exercises": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js/arrays/javascript-array-functions-practice": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js/dom": "__default__profile__",
+            "file:///home/facu/repos/top/JavaScript30/01%20-%20JavaScript%20Drum%20Kit": "__default__profile__",
+            "file:///home/facu/repos/top/foundations": "__default__profile__",
+            "file:///home/facu/repos/top": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js/rockPaperScissors": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/etch-a-sketch": "__default__profile__",
+            "file:///home/facu/repos/top/JavaScript30/04%20-%20Array%20Cardio%20Day%201": "__default__profile__",
+            "file:///home/facu/repos/top/JavaScript30": "__default__profile__",
+            "file:///home/facu/shit/calculator": "__default__profile__",
+            "file:///home/facu/shit/calculatorofIVA": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/js/arrays": "__default__profile__",
+            "file:///home/facu/repos/top/foundations/calculator": "__default__profile__",
+            "file:///home/facu/Documents": "__default__profile__",
+            "file:///home/facu/repos/top/intermediatHtml": "__default__profile__",
+            "file:///home/facu/repos/top/midHtmlCss/tables": "__default__profile__",
+            "file:///home/facu/repos/top/midHtmlCss/units": "__default__profile__",
+            "file:///home/facu/repos/top/midHtmlCss/pseudoElements": "__default__profile__",
+            "file:///home/facu/repos/top/midHtmlCss": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -20,21 +48,21 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/facu/.config"
+                "folderUri": "file:///home/facu/repos/top/midHtmlCss"
             }
         ],
         "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/facu/.config",
-            "backupPath": "/home/facu/.config/Code/Backups/abe023054c23d145dbb484c4ab6433a3",
+            "folder": "file:///home/facu/repos/top/midHtmlCss",
+            "backupPath": "/home/facu/.config/Code/Backups/bd789f9b8c9a25fc479958abd48ef49b",
             "uiState": {
                 "mode": 1,
-                "x": 964,
+                "x": 2502,
                 "y": 33,
-                "width": 949,
-                "height": 1040
+                "width": 1011,
+                "height": 860
             }
         },
         "openedWindows": []
@@ -77,8 +105,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -87,56 +114,56 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu/.config",
-                                        "path": "/home/facu/.config",
+                                        "external": "file:///home/facu/repos/top/midHtmlCss",
+                                        "path": "/home/facu/repos/top/midHtmlCss",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config"
+                                    "label": "~/repos/top/midHtmlCss"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu",
-                                        "path": "/home/facu",
+                                        "external": "file:///home/facu/repos/top/midHtmlCss/pseudoElements",
+                                        "path": "/home/facu/repos/top/midHtmlCss/pseudoElements",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/home/facu"
+                                    "label": "~/repos/top/midHtmlCss/pseudoElements"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu/.config/waybar",
-                                        "path": "/home/facu/.config/waybar",
+                                        "external": "file:///home/facu/repos/top/midHtmlCss/units",
+                                        "path": "/home/facu/repos/top/midHtmlCss/units",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/waybar"
+                                    "label": "~/repos/top/midHtmlCss/units"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu/repos/pizza",
-                                        "path": "/home/facu/repos/pizza",
+                                        "external": "file:///home/facu/repos/top/midHtmlCss/tables",
+                                        "path": "/home/facu/repos/top/midHtmlCss/tables",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/repos/pizza"
+                                    "label": "~/repos/top/midHtmlCss/tables"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///tmp/helloWorld",
-                                        "path": "/tmp/helloWorld",
+                                        "external": "file:///home/facu/repos/top/intermediatHtml",
+                                        "path": "/home/facu/repos/top/intermediatHtml",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/tmp/helloWorld"
+                                    "label": "~/repos/top/intermediatHtml"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -153,23 +180,125 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu/.config/kitty",
-                                        "path": "/home/facu/.config/kitty",
+                                        "external": "file:///home/facu/repos/top/foundations/calculator",
+                                        "path": "/home/facu/repos/top/foundations/calculator",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/kitty"
+                                    "label": "~/repos/top/foundations/calculator"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/facu/.config/hypr",
-                                        "path": "/home/facu/.config/hypr",
+                                        "external": "file:///home/facu/repos/top/foundations/js/arrays",
+                                        "path": "/home/facu/repos/top/foundations/js/arrays",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/hypr"
+                                    "label": "~/repos/top/foundations/js/arrays"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/shit/calculatorofIVA",
+                                        "path": "/home/facu/shit/calculatorofIVA",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/shit/calculatorofIVA"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/shit/calculator",
+                                        "path": "/home/facu/shit/calculator",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/shit/calculator"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/etch-a-sketch/main.js",
+                                        "path": "/home/facu/repos/top/foundations/etch-a-sketch/main.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/etch-a-sketch/main.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/etch-a-sketch/styles.css",
+                                        "path": "/home/facu/repos/top/foundations/etch-a-sketch/styles.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/etch-a-sketch/styles.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/js/dom/dom.js",
+                                        "path": "/home/facu/repos/top/foundations/js/dom/dom.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/js/dom/dom.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/js/exercise3/math.js",
+                                        "path": "/home/facu/repos/top/foundations/js/exercise3/math.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/js/exercise3/math.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/js/exercise3/index.js",
+                                        "path": "/home/facu/repos/top/foundations/js/exercise3/index.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/js/exercise3/index.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/js/troubleshooting.js",
+                                        "path": "/home/facu/repos/top/foundations/js/troubleshooting.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/js/troubleshooting.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/facu/repos/top/foundations/js/index.js",
+                                        "path": "/home/facu/repos/top/foundations/js/index.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/top/foundations/js/index.js"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -227,13 +356,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -695,8 +817,7 @@
                                 },
                                 {
                                     "id": "editor.action.toggleMinimap",
-                                    "label": "&&Minimap",
-                                    "checked": true
+                                    "label": "&&Minimap"
                                 },
                                 {
                                     "id": "breadcrumbs.toggle",
@@ -755,6 +876,13 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -946,45 +1074,54 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3"
+                                    "label": "Group &&3",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4"
+                                    "label": "Group &&4",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5"
+                                    "label": "Group &&5",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group"
+                                    "label": "&&Next Group",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group"
+                                    "label": "&&Previous Group",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left"
+                                    "label": "Group &&Left",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right"
+                                    "label": "Group &&Right",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above"
+                                    "label": "Group &&Above",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below"
+                                    "label": "Group &&Below",
+                                    "enabled": false
                                 }
                             ]
                         }
@@ -1184,8 +1321,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1532,6 +1668,11 @@
                 "label": "Ctrl+K Ctrl+\\",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",

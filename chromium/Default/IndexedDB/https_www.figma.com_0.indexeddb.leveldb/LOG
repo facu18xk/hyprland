@@ -1,0 +1,15 @@
+2024/01/13-21:48:58.950 33b Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/13-21:48:58.951 33b Recovering log #4
+2024/01/13-21:48:58.952 33b Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000004.log 
+2024/01/13-23:00:04.708 33b Level-0 table #8: started
+2024/01/13-23:00:04.709 33b Level-0 table #8: 20211 bytes OK
+2024/01/13-23:00:04.710 33b Delete type=0 #4
+2024/01/13-23:00:04.710 33b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/13-23:00:04.710 33b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x0c\x00a\x00c\x00t\x00i\x00v\x00i\x00t\x00y\x00-\x00l\x00o\x00g' @ 3298 : 1
+2024/01/13-23:00:04.710 33b Compacting 1@1 + 1@2 files
+2024/01/13-23:00:04.712 33b Generated table #9@1: 86 keys, 2263 bytes
+2024/01/13-23:00:04.712 33b Compacted 1@1 + 1@2 files => 2263 bytes
+2024/01/13-23:00:04.713 33b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/13-23:00:04.714 33b Delete type=2 #8
+2024/01/13-23:00:04.714 33b Delete type=2 #5
+2024/01/13-23:00:04.714 33b Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x0c\x00a\x00c\x00t\x00i\x00v\x00i\x00t\x00y\x00-\x00l\x00o\x00g' @ 3298 : 1 .. (end); will stop at (end)

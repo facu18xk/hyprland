@@ -1,0 +1,37 @@
+2024-01-18 15:01:06.289 [info] Extension host with pid 18798 started
+2024-01-18 15:01:06.290 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/23f1b0f4bad308c4afc074fcc0dc6992.
+2024-01-18 15:01:06.347 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-18 15:01:06.364 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-18 15:01:06.420 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-18 15:01:06.541 [info] Eager extensions activated
+2024-01-18 15:01:06.546 [info] Extension host with pid 18819 started
+2024-01-18 15:01:06.546 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/23f1b0f4bad308c4afc074fcc0dc6992.
+2024-01-18 15:01:06.549 [info] Eager extensions activated
+2024-01-18 15:01:06.563 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.568 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.572 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.587 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.593 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.682 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.701 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:06.720 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 15:01:11.887 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-18 15:01:11.912 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-18 15:01:17.219 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-01-18 15:55:48.111 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-18 15:55:48.114 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-18 15:55:48.123 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/home/facu/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:675367)
+	at t.deactivate (/home/facu/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:213749)
+	at f.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9678)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-01-18 15:55:48.123 [info] Extension host with pid 18819 exiting with code 0
+2024-01-18 15:55:48.186 [info] Extension host with pid 18798 exiting with code 0

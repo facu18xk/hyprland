@@ -1,0 +1,5 @@
+2024-01-17 19:18:49.975 [info] update#setState idle
+2024-01-17 19:19:19.982 [info] update#setState checking for updates
+2024-01-17 19:19:20.209 [info] update#setState idle
+2024-01-17 20:17:33.671 [info] Extension host with pid 22512 exited with code: 0, signal: unknown.
+2024-01-17 20:17:33.760 [info] Extension host with pid 22485 exited with code: 0, signal: unknown.

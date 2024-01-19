@@ -1,0 +1,15 @@
+section {
+    background-color: lightblue;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+h2 {
+    position: sticky;
+    bottom: 2em;
+}
+
+.text {
+    max-width: 300px;
+    font-size: 2rem;
+}

@@ -1,0 +1,15 @@
+2024/01/14-19:00:40.731 9a1 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-19:00:40.731 9a1 Recovering log #4
+2024/01/14-19:00:40.732 9a1 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000004.log 
+2024/01/14-19:01:16.812 9a0 Level-0 table #8: started
+2024/01/14-19:01:16.815 9a0 Level-0 table #8: 2370 bytes OK
+2024/01/14-19:01:16.817 9a0 Delete type=0 #4
+2024/01/14-19:01:16.817 9a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/14-19:01:16.818 9a0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x08\x00l\x00a\x00n\x00g\x00P\x00a\x00c\x00k' @ 570 : 0
+2024/01/14-19:01:16.818 9a0 Compacting 1@1 + 1@2 files
+2024/01/14-19:01:16.822 9a0 Generated table #9@1: 121 keys, 4319 bytes
+2024/01/14-19:01:16.822 9a0 Compacted 1@1 + 1@2 files => 4319 bytes
+2024/01/14-19:01:16.824 9a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/14-19:01:16.825 9a0 Delete type=2 #8
+2024/01/14-19:01:16.825 9a0 Delete type=2 #5
+2024/01/14-19:01:16.826 9a0 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x08\x00l\x00a\x00n\x00g\x00P\x00a\x00c\x00k' @ 570 : 0 .. (end); will stop at (end)

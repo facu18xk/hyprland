@@ -1,0 +1,6 @@
+2024/01/01-10:44:11.488 5ff Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_plnkr.co_0.indexeddb.leveldb since it was missing.
+2024/01/01-10:44:11.492 5ff Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_plnkr.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/01-10:55:56.734 5ff Level-0 table #5: started
+2024/01/01-10:55:56.736 5ff Level-0 table #5: 5257 bytes OK
+2024/01/01-10:55:56.738 5ff Delete type=0 #3
+2024/01/01-10:55:56.739 5ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

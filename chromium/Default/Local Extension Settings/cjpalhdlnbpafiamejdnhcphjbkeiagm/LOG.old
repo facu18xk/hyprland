@@ -1,0 +1,53 @@
+2024/01/19-07:53:51.169 463 Reusing MANIFEST /home/facu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/01/19-07:53:51.176 463 Recovering log #755
+2024/01/19-07:53:51.197 463 Reusing old log /home/facu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000755.log 
+2024/01/19-07:55:37.922 461 Level-0 table #759: started
+2024/01/19-07:55:37.956 461 Level-0 table #759: 2710213 bytes OK
+2024/01/19-07:55:37.957 461 Delete type=0 #755
+2024/01/19-07:55:37.958 461 Compacting 4@0 + 3@1 files
+2024/01/19-07:55:38.003 461 Generated table #760@0: 13 keys, 2760213 bytes
+2024/01/19-07:55:38.045 461 Generated table #761@0: 18 keys, 2395588 bytes
+2024/01/19-07:55:38.048 461 Generated table #762@0: 8 keys, 131362 bytes
+2024/01/19-07:55:38.048 461 Compacted 4@0 + 3@1 files => 5287163 bytes
+2024/01/19-07:55:38.049 461 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/01/19-07:55:38.049 461 Delete type=2 #759
+2024/01/19-07:55:38.049 461 Delete type=2 #754
+2024/01/19-07:55:38.049 461 Delete type=2 #749
+2024/01/19-07:55:38.049 461 Delete type=2 #756
+2024/01/19-07:55:38.050 461 Delete type=2 #748
+2024/01/19-07:55:38.050 461 Delete type=2 #750
+2024/01/19-07:55:38.050 461 Delete type=2 #752
+2024/01/19-07:55:38.379 461 Level-0 table #764: started
+2024/01/19-07:55:38.402 461 Level-0 table #764: 1489653 bytes OK
+2024/01/19-07:55:38.404 461 Delete type=0 #758
+2024/01/19-07:57:39.342 461 Level-0 table #766: started
+2024/01/19-07:57:39.378 461 Level-0 table #766: 2259085 bytes OK
+2024/01/19-07:57:39.379 461 Delete type=0 #763
+2024/01/19-07:57:39.444 461 Level-0 table #768: started
+2024/01/19-07:57:39.478 461 Level-0 table #768: 3110659 bytes OK
+2024/01/19-07:57:39.480 461 Delete type=0 #765
+2024/01/19-08:55:40.237 461 Level-0 table #770: started
+2024/01/19-08:55:40.295 461 Level-0 table #770: 2710029 bytes OK
+2024/01/19-08:55:40.298 461 Delete type=0 #767
+2024/01/19-08:55:40.300 461 Compacting 4@0 + 3@1 files
+2024/01/19-08:55:40.379 461 Generated table #771@0: 13 keys, 2760017 bytes
+2024/01/19-08:55:40.500 461 Generated table #772@0: 18 keys, 2395617 bytes
+2024/01/19-08:55:40.507 461 Generated table #773@0: 8 keys, 131375 bytes
+2024/01/19-08:55:40.507 461 Compacted 4@0 + 3@1 files => 5287009 bytes
+2024/01/19-08:55:40.508 461 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/01/19-08:55:40.508 461 Delete type=2 #761
+2024/01/19-08:55:40.508 461 Delete type=2 #760
+2024/01/19-08:55:40.509 461 Delete type=2 #764
+2024/01/19-08:55:40.509 461 Delete type=2 #768
+2024/01/19-08:55:40.509 461 Delete type=2 #762
+2024/01/19-08:55:40.509 461 Delete type=2 #770
+2024/01/19-08:55:40.509 461 Delete type=2 #766
+2024/01/19-08:55:41.042 461 Level-0 table #775: started
+2024/01/19-08:55:41.085 461 Level-0 table #775: 1468446 bytes OK
+2024/01/19-08:55:41.087 461 Delete type=0 #769
+2024/01/19-08:57:42.160 461 Level-0 table #777: started
+2024/01/19-08:57:42.211 461 Level-0 table #777: 2260849 bytes OK
+2024/01/19-08:57:42.212 461 Delete type=0 #774
+2024/01/19-08:57:42.313 461 Level-0 table #779: started
+2024/01/19-08:57:42.375 461 Level-0 table #779: 3047271 bytes OK
+2024/01/19-08:57:42.377 461 Delete type=0 #776

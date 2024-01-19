@@ -1,0 +1,10 @@
+2024/01/19-10:23:50.741 4c4 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/19-10:23:50.742 4c4 Recovering log #302
+2024/01/19-10:23:50.768 4c4 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000302.log 
+2024/01/19-10:23:55.998 50d Level-0 table #307: started
+2024/01/19-10:23:56.024 50d Level-0 table #307: 1809971 bytes OK
+2024/01/19-10:23:56.025 50d Delete type=0 #302
+2024/01/19-10:23:58.412 538 Compacting 1@1 + 1@2 files
+2024/01/19-10:23:58.420 538 Generated table #308@1: 419 keys, 88066 bytes
+2024/01/19-10:23:58.420 538 Compacted 1@1 + 1@2 files => 88066 bytes
+2024/01/19-10:23:58.421 538 compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,26 @@
+What is a web server? 
+A web server is a computer that have the web you are looking for, a web server can handle multiple websites
+What is a network? 
+A network is a set of computers interconnected, and can share information between them
+What is the internet? 
+The internet is the backbone of the web, is the infrastcuture in what the web is built on, is a network of networks connected by submarine cables all across the globe 
+What is an Ip adress
+An ip idress is like the direction of your home, but your device on the internet, this is used to send you the websites, resources you are looking for.
+What is a router?
+A router is a device that allows you to connect multiple devices and create a network, the router is in charge of the chepeast path to send your packets and send it to other ip adresses.
+What is an isp? 
+An Internet service provider is a service that connect multiple local netwokrs Wans to the internet.
+What are packets and how the used to transfer data? 
+Packets are a way to share data across the internet, files are like a lego, and packets are a piece of legos, you disarm a file to send it across the internet and the packets are send by different paths, on the receiver the packets are checked if all packets are there. And then build the lego again. 
+What is a client? 
+A client is a interface in which we connect to the internet a web brwser for example or an app. 
+What is web page?
+A web page is a html file that containt information, styles, and interactiviy.
+What is a web browser?
+Is an application that allow you to open webpages, receives and sends packets across the internet 
+What is a search engine? 
+A search engine is a product that indexes almost all the web pages on the internet, this is thanks to the spiders that go from sites to sites scrapping likns to go to others sites, this product have a pake rank that is like the reputation of the site, the positioning on your search
+What is a dns request?
+A dns request is like when we search a number in a numberbook but instead for looking for numbers we look for ip adrsess, and the have the domain names of the sites, this request are handled by a dns server that have the address we are looking for.
+In your own words, describe the process that takes place when you initiate a search on google.com in terms of what we discussed on this section.
+First a packet it send to the web search, the web search server receives what we want and search with the pages index the have the see for title that matches with our query and other importants parameters

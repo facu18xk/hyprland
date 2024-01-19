@@ -1,0 +1,6 @@
+2023/12/29-12:09:01.244 3e7 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_www.olympikus.com.br_0.indexeddb.leveldb since it was missing.
+2023/12/29-12:09:01.253 3e7 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.olympikus.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/29-12:09:51.127 3e7 Level-0 table #5: started
+2023/12/29-12:09:51.137 3e7 Level-0 table #5: 20604 bytes OK
+2023/12/29-12:09:51.140 3e7 Delete type=0 #3
+2023/12/29-12:09:51.145 3d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

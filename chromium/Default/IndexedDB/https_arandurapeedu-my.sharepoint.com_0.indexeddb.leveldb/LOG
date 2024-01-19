@@ -1,0 +1,6 @@
+2024/01/11-12:18:25.092 47d Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_arandurapeedu-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-12:18:25.092 47d Recovering log #3
+2024/01/11-12:18:25.119 47d Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_arandurapeedu-my.sharepoint.com_0.indexeddb.leveldb/000003.log 
+2024/01/11-12:18:49.748 47e Level-0 table #5: started
+2024/01/11-12:18:49.784 47e Level-0 table #5: 1620469 bytes OK
+2024/01/11-12:18:49.785 47e Delete type=0 #3

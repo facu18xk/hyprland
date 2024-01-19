@@ -1,0 +1,15 @@
+2024/01/10-19:09:52.212 47d Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-19:09:52.213 47d Recovering log #4
+2024/01/10-19:09:52.222 47d Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/000004.log 
+2024/01/10-19:10:07.674 47e Level-0 table #8: started
+2024/01/10-19:10:07.679 47e Level-0 table #8: 265176 bytes OK
+2024/01/10-19:10:07.681 47e Delete type=0 #4
+2024/01/10-19:10:07.682 47e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/10-19:10:07.682 47e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x041\x02\x03\x00\x00\x00\x00\x00\x00\x14@' @ 9163 : 1
+2024/01/10-19:10:07.682 47e Compacting 1@1 + 1@2 files
+2024/01/10-19:10:07.690 47e Generated table #9@1: 1631 keys, 78910 bytes
+2024/01/10-19:10:07.690 47e Compacted 1@1 + 1@2 files => 78910 bytes
+2024/01/10-19:10:07.691 47e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/10-19:10:07.691 47e Delete type=2 #8
+2024/01/10-19:10:07.691 47e Delete type=2 #5
+2024/01/10-19:10:07.692 47e Manual compaction at level-1 from '\x00\x041\x02\x03\x00\x00\x00\x00\x00\x00\x14@' @ 9163 : 1 .. (end); will stop at (end)

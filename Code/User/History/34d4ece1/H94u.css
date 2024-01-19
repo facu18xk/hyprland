@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px sold white;
+}
+
+thead {
+    background-color: lightcoral;
+}

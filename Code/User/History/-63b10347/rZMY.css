@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    background: url("https://picsum.photos/1920/1080") no-repeat;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+}
+
+p::first-line {
+    color: pink;
+}
+
+p::before {
+    color: red;
+    content: "I wanna fuck ";
+}
+
+p::after {
+    color: red;
+    content: " I'm corny";
+}

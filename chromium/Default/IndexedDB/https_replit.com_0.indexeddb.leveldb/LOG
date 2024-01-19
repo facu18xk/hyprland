@@ -1,0 +1,36 @@
+2024/01/02-09:09:47.359 391 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/02-09:09:47.360 391 Recovering log #39
+2024/01/02-09:09:47.360 391 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/000039.log 
+2024/01/02-09:09:47.360 391 Delete type=2 #38
+2024/01/02-09:09:47.862 391 Level-0 table #44: started
+2024/01/02-09:09:47.863 391 Level-0 table #44: 3089 bytes OK
+2024/01/02-09:09:47.864 391 Delete type=0 #39
+2024/01/02-09:09:47.864 391 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 668 : 1
+2024/01/02-09:09:47.864 391 Compacting 1@0 + 1@1 files
+2024/01/02-09:09:47.866 391 Generated table #45@0: 100 keys, 3153 bytes
+2024/01/02-09:09:47.866 391 Compacted 1@0 + 1@1 files => 3153 bytes
+2024/01/02-09:09:47.867 391 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/02-09:09:47.867 391 Delete type=2 #44
+2024/01/02-09:09:47.867 391 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 668 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/02-09:15:44.617 3df Level-0 table #47: started
+2024/01/02-09:15:44.619 3df Level-0 table #47: 3085 bytes OK
+2024/01/02-09:15:44.620 3df Delete type=2 #41
+2024/01/02-09:15:44.621 3df Delete type=0 #43
+2024/01/02-09:15:44.621 3df Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 713 : 1
+2024/01/02-09:15:44.621 3df Compacting 1@0 + 1@1 files
+2024/01/02-09:15:44.623 3df Generated table #48@0: 111 keys, 3267 bytes
+2024/01/02-09:15:44.623 3df Compacted 1@0 + 1@1 files => 3267 bytes
+2024/01/02-09:15:44.624 3df compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/02-09:15:44.624 3df Delete type=2 #47
+2024/01/02-09:15:44.624 3df Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 713 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/02-09:20:09.145 3e0 Level-0 table #50: started
+2024/01/02-09:20:09.148 3e0 Level-0 table #50: 3089 bytes OK
+2024/01/02-09:20:09.150 3e0 Delete type=0 #46
+2024/01/02-09:20:09.151 3e0 Delete type=2 #45
+2024/01/02-09:20:09.152 391 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 758 : 1
+2024/01/02-09:20:09.152 391 Compacting 1@0 + 1@1 files
+2024/01/02-09:20:09.155 391 Generated table #51@0: 123 keys, 3387 bytes
+2024/01/02-09:20:09.155 391 Compacted 1@0 + 1@1 files => 3387 bytes
+2024/01/02-09:20:09.157 391 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/02-09:20:09.157 391 Delete type=2 #50
+2024/01/02-09:20:09.158 391 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 758 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

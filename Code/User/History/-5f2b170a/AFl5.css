@@ -1,0 +1,19 @@
+:root {
+    --header: 200px;
+    --footer: 150px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background: black;
+    color: white;
+}
+
+.header {
+    background: linear-gradient(30deg, purple, pink);
+    height: 500px;
+}

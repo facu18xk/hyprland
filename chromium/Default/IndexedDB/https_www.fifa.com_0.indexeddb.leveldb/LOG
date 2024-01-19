@@ -1,0 +1,6 @@
+2024/01/05-14:09:45.118 376 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_www.fifa.com_0.indexeddb.leveldb since it was missing.
+2024/01/05-14:09:45.121 376 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.fifa.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/05-14:12:26.985 376 Level-0 table #5: started
+2024/01/05-14:12:26.988 376 Level-0 table #5: 2602 bytes OK
+2024/01/05-14:12:26.991 376 Delete type=0 #3
+2024/01/05-14:12:26.992 376 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,30 @@
+body {
+    height: 300vh;
+}
+
+:is(a, h2) {
+    background: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.item {
+    width: 200px;
+    height: 400px;
+    background-color: lightcoral;
+}
+
+.item:has(img) {
+    background: red;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    width: 100vw;
+}

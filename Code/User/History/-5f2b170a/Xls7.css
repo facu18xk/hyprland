@@ -1,0 +1,18 @@
+:root {
+    --header: 100px;
+    --footer: 100px;
+    --main: calc(100vh - var(--header) - var(--footer));
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    color: white;
+}
+
+.phone {
+    font-size: clamp(4rem, 3vw, 1rem);
+}

@@ -1,0 +1,6 @@
+2024/01/11-10:17:02.481 47e Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_hyperskill.org_0.indexeddb.leveldb since it was missing.
+2024/01/11-10:17:02.487 47e Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_hyperskill.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-10:17:39.608 47e Level-0 table #5: started
+2024/01/11-10:17:39.610 47e Level-0 table #5: 7046 bytes OK
+2024/01/11-10:17:39.611 47e Delete type=0 #3
+2024/01/11-10:17:39.612 47e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

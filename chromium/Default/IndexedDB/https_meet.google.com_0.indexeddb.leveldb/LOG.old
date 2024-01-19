@@ -1,0 +1,6 @@
+2024/01/03-09:02:57.432 34f Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
+2024/01/03-09:02:57.437 34f Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/03-09:03:31.445 3d7 Level-0 table #5: started
+2024/01/03-09:03:31.446 3d7 Level-0 table #5: 2811 bytes OK
+2024/01/03-09:03:31.447 3d7 Delete type=0 #3
+2024/01/03-09:03:31.447 3d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

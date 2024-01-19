@@ -1,0 +1,6 @@
+2024/01/17-19:12:34.401 51d Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_calendar.notion.so_0.indexeddb.leveldb since it was missing.
+2024/01/17-19:12:34.406 51d Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_calendar.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/17-19:12:37.143 51e Level-0 table #5: started
+2024/01/17-19:12:37.145 51e Level-0 table #5: 3325 bytes OK
+2024/01/17-19:12:37.146 51e Delete type=0 #3
+2024/01/17-19:12:37.146 51e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,174 @@
+2024-01-18 09:24:56.190 [info] Configuration changed
+2024-01-18 09:24:56.317 [info] Configuration changed
+2024-01-18 09:24:56.422 [info] Configuration changed
+2024-01-18 09:24:56.638 [info] Configuration changed
+2024-01-18 09:24:56.833 [info] Configuration changed
+2024-01-18 09:25:33.803 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 09:25:56.192 [info] Executing :W
+2024-01-18 09:25:57.449 [info] Executing :w
+2024-01-18 09:25:57.955 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 09:26:14.497 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 09:26:22.334 [info] Executing :wq
+2024-01-18 09:26:22.435 [info] /home/facu/repos/top/midHtmlCss/units/styles/styles.css closed
+2024-01-18 09:26:22.437 [warning] getLineLength() called with out-of-bounds line 1
+2024-01-18 09:26:22.437 [warning] invalid cursor position. [[1, 29] | [1, 29]].
+2024-01-18 09:26:22.446 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 09:26:26.056 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 09:26:27.758 [info] Executing :w
+2024-01-18 09:26:29.688 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 09:26:40.100 [info] Executing :w
+2024-01-18 09:26:45.159 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 09:26:51.235 [info] Executing :W
+2024-01-18 09:26:52.585 [info] Executing :w
+2024-01-18 09:26:55.332 [info] Executing :w
+2024-01-18 09:51:32.023 [info] Executing :w
+2024-01-18 09:52:12.785 [info] Executing :W
+2024-01-18 09:52:14.004 [info] Executing :w
+2024-01-18 09:52:27.361 [info] Executing :W
+2024-01-18 09:52:49.271 [info] Executing :W
+2024-01-18 09:52:50.525 [info] Executing :W
+2024-01-18 09:52:52.389 [info] Executing :W
+2024-01-18 09:52:54.848 [info] Executing :w
+2024-01-18 09:53:04.601 [info] Executing :w
+2024-01-18 09:53:46.671 [info] Executing :W
+2024-01-18 09:53:47.840 [info] Executing :w
+2024-01-18 09:54:28.270 [info] Executing :w
+2024-01-18 09:54:33.651 [info] Executing :W
+2024-01-18 09:54:34.740 [info] Executing :w
+2024-01-18 09:54:38.032 [info] Executing :w
+2024-01-18 09:54:45.532 [info] Executing :w
+2024-01-18 09:54:55.687 [info] Executing :w
+2024-01-18 09:55:01.030 [info] Executing :w
+2024-01-18 09:57:06.239 [info] Executing :w
+2024-01-18 09:57:24.971 [info] Executing :w
+2024-01-18 09:58:48.982 [info] Executing :w
+2024-01-18 10:27:46.928 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/modern-normalize.min.css
+2024-01-18 10:28:30.106 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 10:28:30.678 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 10:29:40.203 [info] Executing :w
+2024-01-18 10:29:58.947 [info] Executing :w
+2024-01-18 10:31:43.299 [info] Executing :w
+2024-01-18 10:31:52.412 [info] Executing :w
+2024-01-18 10:31:53.799 [info] Executing :W
+2024-01-18 10:31:54.952 [info] Executing :w
+2024-01-18 10:31:56.077 [info] Executing :w
+2024-01-18 10:31:57.290 [info] Executing :W
+2024-01-18 10:32:43.691 [info] Executing :w
+2024-01-18 10:32:49.218 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 10:34:14.729 [info] Executing :w
+2024-01-18 10:34:18.561 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 10:34:27.610 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 10:36:09.979 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 10:36:16.886 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 10:36:29.345 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 10:36:40.151 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 10:36:42.699 [warning] invalid cursor position. [[2, 188] | [2, 188]].
+2024-01-18 10:36:55.680 [info] Executing :w
+2024-01-18 10:37:01.970 [info] Executing :w
+2024-01-18 10:37:04.164 [info] Executing :w
+2024-01-18 10:37:10.996 [info] Executing :w
+2024-01-18 10:37:28.301 [info] Executing :w
+2024-01-18 10:42:18.164 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 10:42:19.122 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 10:42:22.818 [info] Executing :w
+2024-01-18 10:42:32.455 [info] Executing :w
+2024-01-18 10:42:36.031 [info] Executing :w
+2024-01-18 10:52:19.979 [info] Executing :w
+2024-01-18 10:52:23.828 [info] Executing :w
+2024-01-18 10:52:39.402 [info] Executing :w
+2024-01-18 10:54:18.100 [info] Executing :w
+2024-01-18 10:54:22.312 [info] Executing :w
+2024-01-18 10:54:27.686 [info] Executing :w
+2024-01-18 10:54:45.008 [info] Executing :w
+2024-01-18 10:54:51.607 [info] Executing :w
+2024-01-18 11:04:51.357 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:05:06.050 [info] Executing :w
+2024-01-18 11:05:06.419 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:05:13.204 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:05:17.030 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:05:25.003 [info] Executing :W
+2024-01-18 11:05:26.291 [info] Executing :w
+2024-01-18 11:05:27.649 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:05:29.329 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:05:30.142 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:05:32.036 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:05:39.397 [info] Executing :1
+2024-01-18 11:05:52.796 [info] Executing :w
+2024-01-18 11:06:10.298 [info] Executing :W
+2024-01-18 11:06:11.291 [info] Executing :w
+2024-01-18 11:06:28.294 [info] Executing :w
+2024-01-18 11:06:44.778 [info] Executing :w
+2024-01-18 11:06:50.367 [info] Executing :w
+2024-01-18 11:07:04.051 [info] Executing :w
+2024-01-18 11:07:54.428 [info] Executing :w
+2024-01-18 11:08:05.146 [info] Executing :w
+2024-01-18 11:08:08.518 [info] Executing :w
+2024-01-18 11:08:26.691 [info] Executing :w
+2024-01-18 11:08:31.452 [info] Executing :w
+2024-01-18 11:35:10.722 [info] Executing :w
+2024-01-18 11:36:34.430 [info] Executing :W
+2024-01-18 11:36:35.458 [info] Executing :w
+2024-01-18 11:36:44.074 [info] Executing :w
+2024-01-18 11:36:49.078 [info] Executing :w
+2024-01-18 11:36:54.462 [info] Executing :w
+2024-01-18 11:36:57.371 [info] Executing :w
+2024-01-18 11:37:56.524 [info] Executing :w
+2024-01-18 11:38:35.349 [info] Executing :W
+2024-01-18 11:38:37.856 [info] Executing :w
+2024-01-18 11:38:49.296 [info] Executing :w
+2024-01-18 11:38:55.393 [info] Executing :w
+2024-01-18 11:39:00.506 [info] Executing :W
+2024-01-18 11:39:02.341 [info] Executing :W
+2024-01-18 11:39:03.767 [info] Executing :w
+2024-01-18 11:39:18.049 [info] Executing :w
+2024-01-18 11:39:23.371 [info] Executing :w
+2024-01-18 11:39:31.027 [info] Executing :w
+2024-01-18 11:40:40.647 [info] Executing :w
+2024-01-18 11:40:41.780 [info] Executing :w
+2024-01-18 11:40:45.601 [info] Executing :w
+2024-01-18 11:40:47.859 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:40:48.878 [info] /home/facu/repos/top/midHtmlCss/units/styles/modern-normalize.min.css closed
+2024-01-18 11:40:59.283 [info] Executing :w
+2024-01-18 11:41:06.275 [info] Executing :w
+2024-01-18 11:41:11.159 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:41:17.569 [info] Executing :w
+2024-01-18 11:43:32.281 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:43:49.502 [info] Executing :W
+2024-01-18 11:43:49.683 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:44:02.337 [info] Executing :w
+2024-01-18 11:44:12.365 [info] Executing :w
+2024-01-18 11:44:34.329 [info] Executing :ws
+2024-01-18 11:44:36.182 [info] Executing :w
+2024-01-18 11:44:42.842 [info] Executing :w
+2024-01-18 11:44:49.111 [info] Executing :w
+2024-01-18 11:45:04.875 [info] Executing :w
+2024-01-18 11:45:08.752 [info] Executing :w
+2024-01-18 11:45:17.131 [info] Executing :w
+2024-01-18 11:46:34.411 [info] Executing :w
+2024-01-18 11:46:39.123 [info] Executing :w
+2024-01-18 11:46:46.867 [info] Executing :w
+2024-01-18 11:46:57.245 [info] Executing :w
+2024-01-18 11:47:02.487 [info] Executing :w
+2024-01-18 11:47:31.799 [info] Executing :w
+2024-01-18 11:52:55.742 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/index.html
+2024-01-18 11:53:12.947 [info] Executing :w
+2024-01-18 11:53:15.021 [info] Active editor: file:///home/facu/repos/top/midHtmlCss/units/styles/styles.css
+2024-01-18 11:53:34.904 [warning] Ignoring slipped selection: [40, 13; 40, 13]
+2024-01-18 11:53:35.651 [info] Executing :w
+2024-01-18 11:53:39.522 [info] Executing :w
+2024-01-18 11:53:39.661 [warning] Ignoring slipped selection: [40, 17; 40, 17]
+2024-01-18 11:53:54.559 [warning] Ignoring slipped selection: [42, 16; 42, 16]
+2024-01-18 11:54:00.944 [warning] Ignoring slipped selection: [43, 21; 43, 21]
+2024-01-18 11:54:02.457 [warning] Ignoring slipped selection: [43, 27; 43, 27]
+2024-01-18 11:54:03.302 [info] Executing :w
+2024-01-18 11:54:03.340 [warning] Ignoring slipped selection: [44, 7; 44, 7]
+2024-01-18 11:54:13.511 [warning] Ignoring slipped selection: [43, 15; 43, 15]
+2024-01-18 11:54:15.494 [info] Executing :w
+2024-01-18 11:54:15.521 [warning] Ignoring slipped selection: [44, 18; 44, 18]
+2024-01-18 11:54:26.033 [info] Executing :1
+2024-01-18 11:54:35.247 [warning] Ignoring slipped selection: [9, 15; 9, 15]
+2024-01-18 11:54:38.166 [warning] Ignoring slipped selection: [10, 11; 10, 11]
+2024-01-18 11:54:47.154 [warning] Ignoring slipped selection: [11, 16; 11, 20]
+2024-01-18 11:54:48.887 [warning] Ignoring slipped selection: [11, 22; 11, 22]
+2024-01-18 11:54:49.697 [info] Executing :w
+2024-01-18 11:54:49.738 [warning] Ignoring slipped selection: [12, 19; 12, 19]

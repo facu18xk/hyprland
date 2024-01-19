@@ -1,0 +1,7 @@
+2024/01/02-21:19:04.058 3d1 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_developer.chrome.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/02-21:19:04.058 3d1 Recovering log #3
+2024/01/02-21:19:04.059 3d1 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_developer.chrome.com_0.indexeddb.leveldb/000003.log 
+2024/01/02-21:25:03.344 403 Level-0 table #5: started
+2024/01/02-21:25:03.345 403 Level-0 table #5: 7848 bytes OK
+2024/01/02-21:25:03.346 403 Delete type=0 #3
+2024/01/02-21:25:03.347 403 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,4 @@
+
+/** Bad comment example */
+
+const 

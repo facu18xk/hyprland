@@ -1,0 +1,13 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.balloon {
+    font-size: 5rem;
+    transition: all 0.5s;
+}

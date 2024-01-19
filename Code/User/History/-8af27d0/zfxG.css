@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+
+.navbar {
+    flex: 1 1 auto;
+}
+
+ul {
+    display: flex;
+    width: 1200px;
+    gap: 10px;
+    background-color: teal;
+}
+
+li {
+    flex: 1 1 auto;
+    background-color: red;
+    list-style: none;
+}
+
+li:first-child {
+    flex-grow: 5;
+}

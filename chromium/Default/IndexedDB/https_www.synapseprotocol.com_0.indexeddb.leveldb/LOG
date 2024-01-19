@@ -1,0 +1,6 @@
+2024/01/11-12:51:33.932 4c7 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_www.synapseprotocol.com_0.indexeddb.leveldb since it was missing.
+2024/01/11-12:51:33.935 4c7 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.synapseprotocol.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-12:51:58.184 4c7 Level-0 table #5: started
+2024/01/11-12:51:58.186 4c7 Level-0 table #5: 1826 bytes OK
+2024/01/11-12:51:58.187 4c7 Delete type=0 #3
+2024/01/11-12:51:58.188 4c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

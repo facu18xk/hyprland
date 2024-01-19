@@ -1,0 +1,6 @@
+2024/01/02-19:46:16.637 3d1 Creating DB /home/facu/.config/chromium/Default/WebStorage/64/IndexedDB/indexeddb.leveldb since it was missing.
+2024/01/02-19:46:16.640 3d1 Reusing MANIFEST /home/facu/.config/chromium/Default/WebStorage/64/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/02-19:47:07.901 3cf Level-0 table #5: started
+2024/01/02-19:47:07.903 3cf Level-0 table #5: 16970 bytes OK
+2024/01/02-19:47:07.904 3cf Delete type=0 #3
+2024/01/02-19:47:07.904 3cf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

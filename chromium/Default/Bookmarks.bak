@@ -1,0 +1,252 @@
+{
+   "checksum": "5997c6749226d57534c1fb2acc0a3fef",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13348334457767626",
+               "date_last_used": "0",
+               "guid": "0c7c3415-9717-4c05-9596-cc312df4dafe",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+               "type": "url",
+               "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            }, {
+               "date_added": "13348337522854707",
+               "date_last_used": "0",
+               "guid": "e859bfe7-02ca-4e23-9800-7b53f8c4e9bc",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Aling a link vertically css - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Aling+a+link+vertically+css&oq=Aling+a+link+vertically+css&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEIMzc5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13348341549859668",
+               "date_last_used": "0",
+               "guid": "2def1a0d-817b-4bc2-969a-f1ad09876bbd",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13348583269848131",
+               "date_last_used": "0",
+               "guid": "a0974bcb-6e0f-433a-bd96-84189e8d4e48",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Running",
+               "type": "url",
+               "url": "http://127.0.0.1:5500/index.html"
+            } ],
+            "date_added": "13348334472120505",
+            "date_last_used": "0",
+            "date_modified": "13348687102101774",
+            "guid": "e5a7a6b8-c5e7-4104-b167-a49e06a4c737",
+            "id": "12",
+            "name": "css",
+            "type": "folder"
+         }, {
+            "date_added": "13348687102101774",
+            "date_last_used": "13348696236185815",
+            "guid": "c3b03b3c-37da-4715-8f81-97464af8a4c3",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nike-Run-Club-Marathon-Training-Plan-Audio-Guided-Runs.pdf",
+            "type": "url",
+            "url": "https://www.nike.com/pdf/Nike-Run-Club-Marathon-Training-Plan-Audio-Guided-Runs.pdf"
+         }, {
+            "date_added": "13348712756458502",
+            "date_last_used": "0",
+            "guid": "ad337906-d8ac-45c0-987a-2814cdc28dd4",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "5. Dynamic • Voyage",
+            "type": "url",
+            "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+         }, {
+            "date_added": "13348759796682653",
+            "date_last_used": "0",
+            "guid": "f75787e5-8202-46b3-802f-869d888764d8",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "5. Think Like a Programmer | No Starch Press",
+            "type": "url",
+            "url": "https://nostarch.com/thinklikeaprogrammer"
+         }, {
+            "date_added": "13348764834386410",
+            "date_last_used": "0",
+            "guid": "c81013e9-fa20-4646-ab46-917fa17fda39",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "4. RUNALYZE - Data analysis for athletes",
+            "type": "url",
+            "url": "https://runalyze.com/?_locale=en"
+         }, {
+            "date_added": "13348815945563225",
+            "date_last_used": "13349972105889109",
+            "guid": "51cb2a35-4e82-4956-9991-4956fee70c36",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pomodor | It's time to be focused and productive",
+            "type": "url",
+            "url": "https://pomodor.app/timer"
+         }, {
+            "date_added": "13349649385471349",
+            "date_last_used": "13349678173735938",
+            "guid": "c2432b01-d0ca-439d-8cd5-5cbe10de9e19",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "13. Your Repositories",
+            "type": "url",
+            "url": "https://github.com/facu18xk?tab=repositories"
+         }, {
+            "date_added": "13349894076860485",
+            "date_last_used": "0",
+            "guid": "985515c8-3a85-4bd4-9be8-7abc4eede9a7",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "b",
+            "type": "url",
+            "url": "https://globalbox.com.py/"
+         }, {
+            "date_added": "13349901781986651",
+            "date_last_used": "0",
+            "guid": "cbfe4f35-c3d1-415c-a35b-20dbb4ae2ed7",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "12. Align • Voyage",
+            "type": "url",
+            "url": "https://open.spotify.com/search"
+         }, {
+            "date_added": "13349977620064305",
+            "date_last_used": "0",
+            "guid": "451237af-0bdf-4645-8023-23c6218e0b52",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "2. CSS Cheat Sheet - Interactive, not a PDF | HTMLCheatSheet.com",
+            "type": "url",
+            "url": "https://htmlcheatsheet.com/css/"
+         }, {
+            "date_added": "13349978886655275",
+            "date_last_used": "0",
+            "guid": "184ac0cb-373c-4f05-a334-73682779b21e",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "2. Cheat Sheet",
+            "type": "url",
+            "url": "https://docs.emmet.io/cheat-sheet/"
+         } ],
+         "date_added": "13348195915244179",
+         "date_last_used": "0",
+         "date_modified": "13349978886655275",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13348196676149970",
+            "date_last_used": "0",
+            "guid": "fcb9bb6d-0788-4c7b-abc0-6f26e1a513c1",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard - Study Together",
+            "type": "url",
+            "url": "https://app.studytogether.com/dashboard"
+         }, {
+            "date_added": "13348196681349099",
+            "date_last_used": "0",
+            "guid": "78f3703f-9104-45e8-af92-b68dd3d667b4",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/dashboard"
+         }, {
+            "date_added": "13348245811395541",
+            "date_last_used": "0",
+            "guid": "c5167735-0804-46c0-b991-f51182413d99",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Node.js documentation — DevDocs",
+            "type": "url",
+            "url": "https://devdocs.io/node/"
+         }, {
+            "date_added": "13348251331870870",
+            "date_last_used": "0",
+            "guid": "16f393e0-db1b-4c64-aaa3-36df9f9093e2",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Conventional Commits",
+            "type": "url",
+            "url": "https://www.conventionalcommits.org/en/v1.0.0/"
+         }, {
+            "children": [  ],
+            "date_added": "13348334472121983",
+            "date_last_used": "0",
+            "date_modified": "13348334472121983",
+            "guid": "27aef527-811c-41af-b45d-13ee0e604126",
+            "id": "13",
+            "name": "New folder",
+            "type": "folder"
+         } ],
+         "date_added": "13348195915244186",
+         "date_last_used": "0",
+         "date_modified": "13348334457767626",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13348195915244190",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

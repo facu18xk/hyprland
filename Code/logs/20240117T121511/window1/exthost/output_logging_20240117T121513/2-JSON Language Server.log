@@ -1,0 +1,23 @@
+cancelled
+[Error - 12:15:57 PM] Error while computing document colors for vscode://defaultsettings/keybindings.json: Maximum call stack size exceeded
+RangeError: Maximum call stack size exceeded
+    at Z.merge (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:72766)
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:76158
+    at se (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:78425)
+    at re.getMatchingSchemas (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:75389)
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:112285
+[Error - 12:17:51 PM] Error while computing hover for vscode://defaultsettings/keybindings.json: Maximum call stack size exceeded
+RangeError: Maximum call stack size exceeded
+    at Z.merge (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:72766)
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:76158
+    at se (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:78425)
+    at re.getMatchingSchemas (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:75389)
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:105052
+[Error - 12:17:54 PM] Error while computing hover for vscode://defaultsettings/keybindings.json: Maximum call stack size exceeded
+RangeError: Maximum call stack size exceeded
+    at Z.merge (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:72766)
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:76158
+    at se (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:78425)
+    at re.getMatchingSchemas (/opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:75389)
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:105052
+cancelled

@@ -1,0 +1,192 @@
+const body = document.querySelector('body');
+const MILLISECONDS = 1000;
+//Create rock, paper scissors
+const GAME_OPTIONS = ["rock", "paper", "scissors"];
+// user input: what that input win
+const RULES = {
+    scissors: "paper",
+    rock: "scissors",
+    paper: "rock"
+}
+/**
+ * Get the user input and check if the selection is valid, if not the prompt appear again
+ * @returns the selection made by the user 
+ */
+function getUserSelection() {
+
+    let isAValidSelection = false;
+    let selection;
+
+    while (!isAValidSelection) {
+
+        selection = prompt(`Choice your weapon: Rock 🪨, paper📰, scissors✂`).trim().toLowerCase();
+
+        if (GAME_OPTIONS.includes(selection))
+            isAValidSelection = true;
+        else
+            alert("Please check a valid selection: paper, rock, scissors are the valid ones");
+
+    }
+    return selection;
+}
+/*
+Create a function getComputerChoice which randomly returns to you a value of rock, paper of scissors 
+*/
+function getComputerChoice() {
+    //Generate a random number from 0 to 3
+    let randomNumber = Math.floor(Math.random() * GAME_OPTIONS.length);
+    //if the randomNumber is 0 the choice will be rock, if the random number is 1 the choice will be paper, if the random number is 2 the choice will be scissors
+    return GAME_OPTIONS[randomNumber];
+}
+
+/**
+ * Run the Rock, paper, scissors algorithm.
+ * @param {*} userChoice 
+ * @param {*} computerChoice 
+ * @returns 
+ */
+function playRound(userChoice, computerChoice) {
+    if (userChoice === computerChoice) return "tie";
+    if (RULES[userChoice] === computerChoice) return true;
+    return false;
+}
+function chooseYourWeaponDialog() {
+    let option;
+    const container = document.createElement('div');
+    const title = document.createElement('h2');
+    const rock = document.createElement('button');
+    const paper = document.createElement('button');
+    const scissors = document.createElement('button');
+    const buttons = document.createElement('div');
+
+
+    container.classList.add("dialog");
+    buttons.classList.add("buttons");
+    title.innerText = "Choose you weapon";
+    paper.innerText = "🗞 Paper";
+    paper.setAttribute("value", "paper");
+    scissors.innerText = "✂️ Scissors";
+    scissors.setAttribute("value", "scissors");
+    rock.innerText = "🪨 Rock";
+    rock.setAttribute("value", "rock");
+
+    buttons.appendChild(scissors);
+    buttons.appendChild(rock);
+    buttons.appendChild(paper);
+    container.appendChild(title);
+    container.appendChild(buttons);
+    body.appendChild(container);
+
+    return new Promise(resolve =>
+        buttons.addEventListener('click', (event) => {
+            option = event.target.value;
+            body.removeChild(container);
+            resolve(option);
+        }, { once: true })
+    )
+}
+function win() {
+    body.innerHTML = `<h1 class="title"> You won </h1>`
+}
+
+function tie() {
+    body.innerHTML = `<video class="video" src="./assets/afterTie.webm"></video>`
+    const tieScene = document.querySelector('video');
+    tieScene.play();
+    tieScene.addEventListener("loadedmetadata", () => {
+        setTimeout(() => {
+            tieScene.pause();
+            firstRound();
+        },
+            Math.floor(tieScene.duration * MILLISECONDS))
+    })
+}
+/**
+ * This scene happen when you lose the round
+ */
+function losing() {
+    body.innerHTML = `<video class="video" src="./assets/afterTieLose.webm"></video>`
+    const outro = document.querySelector('video');
+    outro.play();
+    outro.addEventListener("loadedmetadata", () => {
+        console.log(outro.duration);
+        setTimeout(() => {
+            outro.pause();
+            body.innerHTML = `<h1 class="title">Game over</h1>`
+        },
+            Math.floor(outro.duration * MILLISECONDS))
+    })
+}
+function firstRound() {
+    const video = document.createElement('video');
+    video.setAttribute("src", "./assets/firstRound.webm");
+    video.setAttribute("class", "video");
+    video.play();
+    video.style.opacity = "1";
+    body.appendChild(video);
+    setTimeout(() => {
+        video.pause();
+        chooseYourWeaponDialog().then((userChoice) => {
+            video.play();
+            computerChoice = getComputerChoice();
+            roundResult = playRound(userChoice, computerChoice);
+            let timeLeft = Math.floor(video.duration - video.currentTime) * MILLISECONDS;
+            setTimeout(() => {
+                video.pause();
+                if (roundResult == "tie")
+                    tie();
+                else if (roundResult)
+                    tie();
+                //body.innerHTML = `<h1 class="title">You won</h1>`;
+                else
+                    tie();
+            }, timeLeft)
+        })
+    }, 7000)
+}
+/**
+ * Run one round of the game 
+ * @returns true if the user won the round, false if the user lost the round, 0 if it's a tie 
+ */
+function play() {
+    firstRound();
+    let userChoice = getUserSelection();
+    let computerChoice = getComputerChoice();
+    let roundResult = playRound(userChoice, computerChoice);
+    alert(roundResult);
+    //If the user won the round return true.
+    if (roundResult == "You won") return true;
+    if (roundResult == "You lost") return false;
+    return 0;
+}
+/**
+ * Run the game with 5 matches, the participant with more score is the winner
+ */
+function playGame() {
+    const MATCHES = 5;
+    let userScore = 0;
+    let computerScore = 0;
+    for (let i = 0; i < MATCHES; i++) {
+        let result = play();
+        //If it is not a tie 
+        if (!(result === 0)) {
+            if (result) userScore++;
+            else computerScore++;
+        }
+    }
+    if (userScore === computerScore) alert("It's a tie");
+    else if (userScore > computerScore) alert("You won");
+    else alert("You lost");
+}
+//Ui 
+
+const clearHtml = () => body.innerHTML = ""
+const startGame = ev => {
+    if (ev.code == 'Enter') {
+        clearHtml();
+        play();
+    }
+    else
+        return;
+}
+body.addEventListener('keydown', startGame)

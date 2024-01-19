@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+    background: url("https://picsum.photos/1920/1080") no-repeat;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+}
+
+p::first-line {
+    color: pink;
+}
+
+.arrowbox {
+    width: 200px;
+    height: 100px;
+    background: lightskyblue;
+    border-radius: 10px;
+}
+
+.arrowbox::before {
+    content: "";
+    position: absolute: height: 10px;
+    width: 20px;
+}

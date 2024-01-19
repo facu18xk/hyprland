@@ -1,0 +1,86 @@
+{
+    "zenMode.centerLayout": false,
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "code-runner.runInTerminal": true,
+    "window.zoomLevel": 2,
+    "extensions.experimental.affinity": {
+        "vscodevim.vim": 1
+    },
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "h"
+            ],
+            "after": [
+                "left"
+            ]
+        },
+        {
+            "before": [
+                "t"
+            ],
+            "after": [
+                "up"
+            ]
+        },
+        {
+            "before": [
+                "n"
+            ],
+            "after": [
+                "down"
+            ]
+        },
+        {
+            "before": [
+                "s"
+            ],
+            "after": [
+                "right"
+            ]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        {
+            "before": [
+                "h"
+            ],
+            "after": [
+                "left"
+            ]
+        },
+        {
+            "before": [
+                "t"
+            ],
+            "after": [
+                "up"
+            ]
+        },
+        {
+            "before": [
+                "n"
+            ],
+            "after": [
+                "down"
+            ]
+        },
+        {
+            "before": [
+                "s"
+            ],
+            "after": [
+                "right"
+            ]
+        }
+    ]
+}

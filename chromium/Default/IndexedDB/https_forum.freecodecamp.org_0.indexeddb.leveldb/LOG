@@ -1,0 +1,6 @@
+2024/01/02-23:20:03.731 390 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_forum.freecodecamp.org_0.indexeddb.leveldb since it was missing.
+2024/01/02-23:20:03.735 390 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_forum.freecodecamp.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/02-23:21:04.317 345 Level-0 table #5: started
+2024/01/02-23:21:04.319 345 Level-0 table #5: 9882 bytes OK
+2024/01/02-23:21:04.319 345 Delete type=0 #3
+2024/01/02-23:21:04.320 345 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

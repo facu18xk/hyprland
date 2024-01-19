@@ -1,0 +1,17 @@
+dl {
+    width: 100vw;
+    font-size: 4rem;
+}
+
+dt {
+    position: sticky;
+    top: 0;
+    padding: 30px;
+    background: lightgreen;
+}
+
+dd {
+    margin: 0;
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}

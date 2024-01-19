@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+table {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+thead {
+    background-color: lightcoral;
+}
+
+col:nth-child(even) {
+    background-color: lightslategray;
+}
+
+.colgroup {
+    background-color: lightcoral;
+}
+
+.active {
+    border: 10px solid purple;
+}

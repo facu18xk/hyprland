@@ -1,0 +1,13 @@
+2024/01/19-10:14:47.421 4c3 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/19-10:14:47.422 4c3 Recovering log #203
+2024/01/19-10:14:47.422 4c3 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000203.log 
+2024/01/19-10:14:47.715 4c3 Level-0 table #208: started
+2024/01/19-10:14:47.716 4c3 Level-0 table #208: 534 bytes OK
+2024/01/19-10:14:47.716 4c3 Delete type=0 #203
+2024/01/19-10:14:47.717 4c3 Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at '\x004\x00\x00\x05' @ 17108 : 1
+2024/01/19-10:14:47.717 4c3 Compacting 1@0 + 1@1 files
+2024/01/19-10:14:47.717 4c3 Generated table #209@0: 7 keys, 471 bytes
+2024/01/19-10:14:47.717 4c3 Compacted 1@0 + 1@1 files => 471 bytes
+2024/01/19-10:14:47.718 4c3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/19-10:14:47.718 4c3 Delete type=2 #208
+2024/01/19-10:14:47.718 4c3 Manual compaction at level-0 from '\x004\x00\x00\x05' @ 17108 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)

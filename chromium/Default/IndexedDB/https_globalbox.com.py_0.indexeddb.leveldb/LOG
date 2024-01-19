@@ -1,0 +1,15 @@
+2024/01/18-12:36:46.515 35e Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_globalbox.com.py_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/18-12:36:46.516 35e Recovering log #4
+2024/01/18-12:36:46.516 35e Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_globalbox.com.py_0.indexeddb.leveldb/000004.log 
+2024/01/18-12:36:49.902 35f Level-0 table #8: started
+2024/01/18-12:36:49.903 35f Level-0 table #8: 1361 bytes OK
+2024/01/18-12:36:49.904 35f Delete type=0 #4
+2024/01/18-12:36:49.904 35f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/18-12:36:49.904 35f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0d\x00b\x00x\x00-\x00v\x00u\x00e\x00x\x00-\x00m\x00o\x00d\x00e\x00l' @ 202 : 1
+2024/01/18-12:36:49.904 35f Compacting 1@1 + 1@2 files
+2024/01/18-12:36:49.905 35f Generated table #9@1: 38 keys, 821 bytes
+2024/01/18-12:36:49.905 35f Compacted 1@1 + 1@2 files => 821 bytes
+2024/01/18-12:36:49.906 35f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/18-12:36:49.906 35f Delete type=2 #8
+2024/01/18-12:36:49.906 35f Delete type=2 #5
+2024/01/18-12:36:49.906 35f Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0d\x00b\x00x\x00-\x00v\x00u\x00e\x00x\x00-\x00m\x00o\x00d\x00e\x00l' @ 202 : 1 .. (end); will stop at (end)

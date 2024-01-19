@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+
+th,
+td {
+    padding: 10px;
+
+    border: 1px solid gray;
+}
+
+.active {
+    background: lightgoldenrodyellow;
+    border: 1px solid lightcoral;
+}

@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(33, 33, 33);
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(58, 58, 58);
+}
+
+.buttons {
+    margin-bottom: 30px;
+}
+
+.buttons button {
+    margin-right: 20px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 1px 1px white 10px;
+}

@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.columns {
+    background-color: paleturquoise;
+    width: 800px;
+}
+
+.column {
+    background-color: palevioletred;
+
+}

@@ -1,0 +1,11 @@
+section {
+    display: flex;
+}
+
+h2 {
+    flex-grow: 2;
+}
+
+.text {
+    max-width: 300px;
+}

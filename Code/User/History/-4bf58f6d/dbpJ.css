@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one {
+    width: 500px;
+    height: 20px;
+    background-color: lightcoral;
+}
+
+.two {
+    background-color: lightblue;
+}
+
+.three {
+    background-color: lightgreen;
+}

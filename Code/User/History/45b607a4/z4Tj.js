@@ -1,0 +1,17 @@
+const plans = {
+    "5k": "https://www.nike.com/pdf/Nike-Run-Club-5K-Training-Plan-Audio-Guided-Runs.pdf",
+    "10k": "https://www.nike.com/pdf/Nike-Run-Club-10K-Training-Plan-Audio-Guided-Runs.pdf",
+    "21k": "https://www.nike.com/pdf/Nike-Run-Club-Half-Marathon-Training-Plan-Audio-Guided-Runs.pdf",
+    "42k": "https://www.nike.com/pdf/Nike-Run-Club-Marathon-Training-Plan-Audio-Guided-Runs.pdf"
+}
+const LINK = "https://en.wikipedia.org/api/rest_v1/page/summary/5K_run?redirect=false";
+fetch(LINK).then((response) => {
+    if (!response.ok) {
+        throw new Error("Fetch failed");
+    }
+    return response.json;
+})
+    .then(response => {
+        console.log(response);
+    })
+

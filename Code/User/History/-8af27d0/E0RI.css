@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+ul {
+    display: flex;
+    width: 600px;
+}
+
+li {
+    flex: 1 12 300px;
+    background-color: red;
+    list-style: none;
+    margin-right: 15px;
+}

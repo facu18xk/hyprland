@@ -1,0 +1,56 @@
+{
+   "epochs": [ {
+      "calculation_time": "13348715671847060",
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
+   }, {
+      "calculation_time": "13349365770195081",
+      "config_version": 2,
+      "model_version": "4",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [  ],
+         "topic": 27
+      }, {
+         "hashed_domains": [  ],
+         "topic": 618
+      }, {
+         "hashed_domains": [  ],
+         "topic": 234
+      }, {
+         "hashed_domains": [  ],
+         "topic": 445
+      }, {
+         "hashed_domains": [  ],
+         "topic": 390
+      } ]
+   }, {
+      "calculation_time": "13350004080239929",
+      "config_version": 2,
+      "model_version": "4",
+      "padded_top_topics_start_index": 5,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [ "-7489636123993507767", "-4811300830835875091", "1653141510431123408", "2890291524526583949", "3960775528736974472", "5195451023797517809", "6657148634284715990" ],
+         "topic": 126
+      }, {
+         "hashed_domains": [ "-4811300830835875091" ],
+         "topic": 140
+      }, {
+         "hashed_domains": [ "-7489636123993507767", "-4811300830835875091", "2890291524526583949", "6657148634284715990" ],
+         "topic": 538
+      }, {
+         "hashed_domains": [ "-7489636123993507767", "-4811300830835875091", "2890291524526583949", "6657148634284715990" ],
+         "topic": 227
+      }, {
+         "hashed_domains": [ "-4811300830835875091", "1653141510431123408", "2890291524526583949", "3960775528736974472", "5195451023797517809", "6657148634284715990" ],
+         "topic": 224
+      } ]
+   } ],
+   "hex_encoded_hmac_key": "2A4C9A751D182D9001E766FE25FBAE04955A1A2B4261B3916E3E601176805D9D",
+   "next_scheduled_calculation_time": "13350608881091883"
+}

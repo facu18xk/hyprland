@@ -1,0 +1,15 @@
+2024/01/19-08:46:42.153 460 Reusing MANIFEST /home/facu/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/19-08:46:42.153 460 Recovering log #35
+2024/01/19-08:46:42.158 460 Reusing old log /home/facu/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/000035.log 
+2024/01/19-08:46:50.053 461 Level-0 table #40: started
+2024/01/19-08:46:50.057 461 Level-0 table #40: 231899 bytes OK
+2024/01/19-08:46:50.058 461 Delete type=0 #35
+2024/01/19-08:46:50.059 461 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/19-08:46:50.059 461 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0\xb2\xdf\x15\xd2xB\x00\x03\x00\x00\x00\x00\x00\x10x@' @ 14889 : 1
+2024/01/19-08:46:50.059 461 Compacting 1@1 + 1@2 files
+2024/01/19-08:46:50.061 461 Generated table #41@1: 78 keys, 1651 bytes
+2024/01/19-08:46:50.061 461 Compacted 1@1 + 1@2 files => 1651 bytes
+2024/01/19-08:46:50.062 461 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/19-08:46:50.062 461 Delete type=2 #37
+2024/01/19-08:46:50.062 461 Delete type=2 #40
+2024/01/19-08:46:50.063 461 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0\xb2\xdf\x15\xd2xB\x00\x03\x00\x00\x00\x00\x00\x10x@' @ 14889 : 1 .. (end); will stop at (end)

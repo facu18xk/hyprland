@@ -1,0 +1,22 @@
+2024-01-17 12:19:10.186 [info] Extension host with pid 88662 started
+2024-01-17 12:19:10.186 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/0070c6c862e549b0346509a928b86a76.
+2024-01-17 12:19:10.228 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-17 12:19:10.268 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-17 12:19:10.300 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-17 12:19:10.382 [info] Eager extensions activated
+2024-01-17 12:19:10.413 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.416 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.423 [info] Extension host with pid 88683 started
+2024-01-17 12:19:10.423 [info] Skipping acquiring lock for /home/facu/.config/Code/User/workspaceStorage/0070c6c862e549b0346509a928b86a76.
+2024-01-17 12:19:10.426 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.426 [info] Eager extensions activated
+2024-01-17 12:19:10.431 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.451 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.460 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.469 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:10.478 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 12:19:15.951 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-17 12:19:15.967 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-17 12:19:16.506 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-17 12:19:16.531 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-17 13:02:47.375 [info] ExtensionService#_doActivateExtension ysemeniuk.emmet-live, startup: false, activationEvent: 'onCommand:ysemeniuk.emmetLive'

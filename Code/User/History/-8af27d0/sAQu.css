@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: paleturquoise;
+    width: 800px;
+}
+
+.column {
+    flex-grow: 0;
+    background-color: palevioletred;
+    border: 1px solid green;
+}

@@ -1,0 +1,6 @@
+2024/01/18-11:08:48.631 35f Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/18-11:08:48.631 35f Recovering log #77
+2024/01/18-11:08:48.647 35f Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000077.log 
+2024/01/18-11:09:05.633 3b3 Level-0 table #83: started
+2024/01/18-11:09:05.674 3b3 Level-0 table #83: 2692251 bytes OK
+2024/01/18-11:09:05.677 3b3 Delete type=0 #77

@@ -1,0 +1,36 @@
+2024/01/11-08:13:10.463 47d Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-08:13:10.463 47d Recovering log #110
+2024/01/11-08:13:10.463 47d Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000110.log 
+2024/01/11-08:13:10.463 47d Delete type=2 #109
+2024/01/11-08:13:11.742 4c7 Level-0 table #115: started
+2024/01/11-08:13:11.744 4c7 Level-0 table #115: 6128 bytes OK
+2024/01/11-08:13:11.745 4c7 Delete type=0 #110
+2024/01/11-08:13:11.745 47e Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 1255 : 1
+2024/01/11-08:13:11.745 47e Compacting 1@0 + 1@1 files
+2024/01/11-08:13:11.746 47e Generated table #116@0: 43 keys, 1458 bytes
+2024/01/11-08:13:11.746 47e Compacted 1@0 + 1@1 files => 1458 bytes
+2024/01/11-08:13:11.747 47e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/11-08:13:11.747 47e Delete type=2 #115
+2024/01/11-08:13:11.747 47e Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 1255 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/11-08:13:11.748 47e Level-0 table #118: started
+2024/01/11-08:13:11.748 47e Level-0 table #118: 558 bytes OK
+2024/01/11-08:13:11.749 47e Delete type=0 #114
+2024/01/11-08:13:11.749 47e Delete type=2 #112
+2024/01/11-08:13:11.749 47e Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 1281 : 1
+2024/01/11-08:13:11.749 47e Compacting 1@0 + 1@1 files
+2024/01/11-08:13:11.750 47e Generated table #119@0: 47 keys, 1495 bytes
+2024/01/11-08:13:11.750 47e Compacted 1@0 + 1@1 files => 1495 bytes
+2024/01/11-08:13:11.751 47e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/11-08:13:11.751 47e Delete type=2 #118
+2024/01/11-08:13:11.751 47e Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 1281 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/11-08:13:14.533 4c7 Level-0 table #121: started
+2024/01/11-08:13:14.534 4c7 Level-0 table #121: 9268 bytes OK
+2024/01/11-08:13:14.536 4c7 Delete type=0 #117
+2024/01/11-08:13:14.536 4c7 Delete type=2 #116
+2024/01/11-08:13:14.536 4c7 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 1389 : 1
+2024/01/11-08:13:14.536 4c7 Compacting 1@0 + 1@1 files
+2024/01/11-08:13:14.538 4c7 Generated table #122@0: 84 keys, 7813 bytes
+2024/01/11-08:13:14.538 4c7 Compacted 1@0 + 1@1 files => 7813 bytes
+2024/01/11-08:13:14.539 4c7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/11-08:13:14.539 4c7 Delete type=2 #121
+2024/01/11-08:13:14.540 4c7 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 1389 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)

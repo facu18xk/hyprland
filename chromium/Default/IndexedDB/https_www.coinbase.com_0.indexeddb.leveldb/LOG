@@ -1,0 +1,7 @@
+2024/01/14-22:02:03.733 9a0 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-22:02:03.733 9a0 Recovering log #3
+2024/01/14-22:02:03.742 9a0 Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/000003.log 
+2024/01/14-22:29:32.864 9a1 Level-0 table #5: started
+2024/01/14-22:29:32.888 9a1 Level-0 table #5: 420639 bytes OK
+2024/01/14-22:29:32.891 9a1 Delete type=0 #3
+2024/01/14-22:29:32.892 9a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

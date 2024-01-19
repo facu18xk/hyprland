@@ -1,0 +1,12 @@
+2024/01/18-12:36:50.698 35f Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/18-12:36:50.699 35f Recovering log #82
+2024/01/18-12:36:50.709 35f Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000082.log 
+2024/01/18-12:36:54.585 35e Compacting 1@1 + 1@2 files
+2024/01/18-12:36:54.626 35e Generated table #85@1: 280 keys, 602679 bytes
+2024/01/18-12:36:54.626 35e Compacted 1@1 + 1@2 files => 602679 bytes
+2024/01/18-12:36:54.627 35e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/18-12:36:54.628 35e Delete type=2 #80
+2024/01/18-12:36:54.628 35e Delete type=2 #83
+2024/01/18-12:37:09.188 3b3 Level-0 table #87: started
+2024/01/18-12:37:09.215 3b3 Level-0 table #87: 2551928 bytes OK
+2024/01/18-12:37:09.217 3b3 Delete type=0 #82

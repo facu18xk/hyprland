@@ -1,0 +1,17 @@
+2024/01/11-21:31:41.032 57f Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.capcut.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-21:31:41.032 57f Recovering log #21
+2024/01/11-21:31:41.079 57f Reusing old log /home/facu/.config/chromium/Default/IndexedDB/https_www.capcut.com_0.indexeddb.leveldb/000021.log 
+2024/01/11-21:31:41.080 57f Delete type=2 #20
+2024/01/11-21:31:41.080 57f Delete type=2 #22
+2024/01/11-21:32:21.354 528 Level-0 table #26: started
+2024/01/11-21:32:21.377 528 Level-0 table #26: 669246 bytes OK
+2024/01/11-21:32:21.379 528 Delete type=0 #21
+2024/01/11-21:32:21.379 528 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/11-21:32:21.379 528 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x014\x00a\x00s\x00s\x00e\x00t\x00_\x00i\x00d\x00:\x00/\x00/\x001\x00d\x007\x00c\x004\x00d\x00c\x009\x003\x009\x008\x002\x00d\x006\x000\x003\x009\x009\x008\x00f\x00b\x00a\x00f\x00e\x00e\x00b\x00c\x00b\x00c\x001\x00b\x000\x00_\x00f\x00i\x00l\x00e\x00s\x00i\x00z\x00e\x00\x014\x00a\x00s\x00s\x00e\x00t\x00_\x00i\x00d\x00:\x00/\x00/\x001\x00d\x007\x00c\x004\x00d\x00c\x009\x003\x009\x008\x002\x00d\x006\x000\x003\x009\x009\x008\x00f\x00b\x00a\x00f\x00e\x00e\x00b\x00c\x00b\x00c\x001\x00b\x000\x00_\x00f\x00i\x00l\x00e\x00s\x00i\x00z\x00e' @ 222629 : 1
+2024/01/11-21:32:21.380 528 Compacting 1@1 + 1@2 files
+2024/01/11-21:32:21.396 528 Generated table #27@1: 1563 keys, 840836 bytes
+2024/01/11-21:32:21.397 528 Compacted 1@1 + 1@2 files => 840836 bytes
+2024/01/11-21:32:21.398 528 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/11-21:32:21.398 528 Delete type=2 #23
+2024/01/11-21:32:21.399 528 Delete type=2 #26
+2024/01/11-21:32:21.400 528 Manual compaction at level-1 from '\x00\x08\x01\x1f\x014\x00a\x00s\x00s\x00e\x00t\x00_\x00i\x00d\x00:\x00/\x00/\x001\x00d\x007\x00c\x004\x00d\x00c\x009\x003\x009\x008\x002\x00d\x006\x000\x003\x009\x009\x008\x00f\x00b\x00a\x00f\x00e\x00e\x00b\x00c\x00b\x00c\x001\x00b\x000\x00_\x00f\x00i\x00l\x00e\x00s\x00i\x00z\x00e\x00\x014\x00a\x00s\x00s\x00e\x00t\x00_\x00i\x00d\x00:\x00/\x00/\x001\x00d\x007\x00c\x004\x00d\x00c\x009\x003\x009\x008\x002\x00d\x006\x000\x003\x009\x009\x008\x00f\x00b\x00a\x00f\x00e\x00e\x00b\x00c\x00b\x00c\x001\x00b\x000\x00_\x00f\x00i\x00l\x00e\x00s\x00i\x00z\x00e' @ 222629 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2024/01/14-11:57:11.400 9a1 Creating DB /home/facu/.config/chromium/Default/IndexedDB/https_www.bbcgoodfood.com_0.indexeddb.leveldb since it was missing.
+2024/01/14-11:57:11.403 9a1 Reusing MANIFEST /home/facu/.config/chromium/Default/IndexedDB/https_www.bbcgoodfood.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-11:58:20.770 9ea Level-0 table #5: started
+2024/01/14-11:58:20.771 9ea Level-0 table #5: 3917 bytes OK
+2024/01/14-11:58:20.771 9ea Delete type=0 #3
+2024/01/14-11:58:20.772 9ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

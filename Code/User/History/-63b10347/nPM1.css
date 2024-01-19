@@ -1,0 +1,17 @@
+.dummy {
+    font-size: calc(1rem + 0.3vw);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    resize: horizontal;
+}
+
+.title {
+    font-style: italic;
+    letter-spacing: 2rem;
+    line-height: 20rem;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 1px black;
+    letter
+}
